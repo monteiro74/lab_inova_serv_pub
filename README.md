@@ -9,5 +9,7 @@ Assuntos armazenados aqui:
 3) Encomendas técnicas
 4) Lei das startups
 5) Linguagem simples
-6) Cursos e afins
+6) Videos
+7) Cursos
+8) Outros materiais
 
