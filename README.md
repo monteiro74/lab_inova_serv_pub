@@ -1,4 +1,5 @@
 # lab_inova_serv_pub
+Laboratório de inovação no serviço público.
 
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
@@ -12,4 +13,3 @@ Assuntos armazenados aqui:
 6) Videos
 7) Cursos
 8) Outros materiais
-
