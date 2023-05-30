@@ -6,8 +6,8 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 Assuntos armazenados aqui:
 1. Laboratório de Inovação
-     - 1.1. Definição
-     - 1.2. Base legal
+     1.1. Definição
+     1.2. Base legal
 
 2. Contratação de inovação
 
