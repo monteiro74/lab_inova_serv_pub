@@ -4,7 +4,13 @@ Laboratório de inovação no serviço público.
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
-Assuntos armazenados aqui:
+
+## Preambulo - Definição de inovação
+
+
+
+## Assuntos armazenados aqui:
+
 1. Laboratório de Inovação
 - 1.1. Definição:
 
