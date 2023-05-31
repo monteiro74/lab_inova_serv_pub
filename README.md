@@ -25,9 +25,12 @@ Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão desc
 6. Videos
 7. Cursos
 8. Outros materiais
+9. Siglas
 
+LISP - Laboratórios de Inovação no Setor Público
+ 
 
 
 Referências:
-[1] https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
+[1] Descobrindo laboratórios de inovação no setor público. https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
 
