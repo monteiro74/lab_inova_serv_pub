@@ -12,6 +12,7 @@ Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão desc
 
 Os laboratórios de inovação são estruturas que fazem parte da administração pública, em geral possuem uma equipe e estrutura próprias e estão voltados para fomentar a criatividade e a experimentação com o intuito de desenvolver inovações para melhorar os serviços públicos e lidar com problemas complexos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
+Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
 - 1.2. Base legal
 2. Contratação de inovação
@@ -36,3 +37,6 @@ LISP - Laboratórios de Inovação no Setor Público
 Referências:
 [1] Descobrindo laboratórios de inovação no setor público. https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
 
+[2] Laboratórios de inovação no setor público: mapeamento e diagnóstico de experiências nacionais. https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf
+
+[3] 
