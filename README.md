@@ -29,3 +29,5 @@ Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão desc
 
 
 Referências:
+[1] https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
+
