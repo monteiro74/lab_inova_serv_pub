@@ -6,12 +6,9 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 Assuntos armazenados aqui:
 1. Laboratório de Inovação
-- 1.1. Definição
+- 1.1. Definição:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão descritos como versões de várias organizações existentes: como híbridas de grupo de pensadores (think tanks), laboratórios digitais de pesquisa e desenvolvimento (P&D), empreendimentos sociais e organizações beneficentes, Fonte: [https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf].
 
 
 - 1.2. Base legal
@@ -29,3 +26,6 @@ Assuntos armazenados aqui:
 7. Cursos
 8. Outros materiais
 
+
+
+Referências:
