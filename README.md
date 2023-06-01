@@ -74,7 +74,9 @@ Legislação correlata:
 
 | Legislação | Observacao | URL |
 | ---------- | ---------- | --- |
-| Lei n. 10.973, de 2 de dezembro de 2004 | Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. | http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm    |
+| Lei n. 10.973, de 2 de dezembro de 2004 | Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. | http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm |
+| Resolução Nº 221 de 10/05/2016 | Institui princípios de gestão participativa e democrática na elaboração das metas nacionais do Poder Judiciário e das políticas judiciárias do Conselho Nacional de Justiça. | https://atos.cnj.jus.br/atos/detalhar/2279 |
+
 
 
 ## 3. Contratação de inovação
