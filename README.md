@@ -92,6 +92,8 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Laboratório   | Localização   | Instituição | URL |
 | ------------- | ------------- | ----------- | --- |
 | Laboratório de Tecnologias de Apoio a Redes de Invacao  LabTAR  | Vitória (ES)  | UFES | https://labtar.ufes.br/ |
+| Laboratório de Inovação e Estratégia em Governo Linegov | DF | UnB | http://pesquisa.unb.br/humanidades-ciencias-sociais/lab-inovacao-prestacao-servicos-tecnologicos-ciencias-sociais?menu=806#laboratorio-de-inovacao-e-estrategia-em-governo-linegov
+| GNova Laboratório de Inovação em Governo | DF | ENAP | |
 
 
 
