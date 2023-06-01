@@ -30,10 +30,8 @@ Definição: There is no widely accepted or common definition of what counts as 
 Fonte: National Audit Office, 2006b, p. 4.
 
 
-## Assuntos armazenados aqui:
 
-
-2. Laboratório de Inovação
+## 2. Laboratório de Inovação
 - 2.1. Definição:
 
 Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão descritos como versões de várias organizações existentes: como híbridas de grupo de pensadores (think tanks), laboratórios digitais de pesquisa e desenvolvimento (P&D), empreendimentos sociais e organizações beneficentes, Fonte: [https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf].
