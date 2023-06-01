@@ -91,7 +91,7 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 
 | Laboratório   | Localização   | Instituição | URL
 | ------------- | ------------- | 
-| Laboratório de Tecnologias de Apoio a Redes de Invacao - LabTAR  | Vitória (ES)  | UFES |
+| Laboratório de Tecnologias de Apoio a Redes de Invacao  LabTAR  | Vitória (ES)  | UFES |
 
 
 
