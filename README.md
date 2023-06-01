@@ -94,7 +94,13 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Laboratório de Tecnologias de Apoio a Redes de Invacao  LabTAR  | Vitória (ES)  | UFES | https://labtar.ufes.br/ |
 | Laboratório de Inovação e Estratégia em Governo Linegov | DF | UnB | http://pesquisa.unb.br/humanidades-ciencias-sociais/lab-inovacao-prestacao-servicos-tecnologicos-ciencias-sociais?menu=806#laboratorio-de-inovacao-e-estrategia-em-governo-linegov
 | GNova Laboratório de Inovação em Governo | DF | ENAP | https://enap.gov.br/pt/servicos/gnova-laboratorio-de-inovacao-em-governo |
-| Lab InovANAC | 
+| Lab InovANAC | DF | ANAC | https://www.gov.br/anac/en/about-anac/departments/sgp/laboratory-of-innovation-2013-lab-inovanac |
+| Laboratório de Inovação Financeira | RJ | Comissão de valores imobiliários | https://labinovacaofinanceira.com/ |
+| ConnectLab | SC | Correios | |
+| Lab InovaANS | DF | ANS | |
+| Laboratório de Inovação da ANVISA - LAB-iVISA | DF | ANVISA | |
+| Laboratório de Inovação FNDE | DF | FNDE | |
+| #CAIXAlab | SP | Caixa Ecônomica Federal | |
 
 
 
