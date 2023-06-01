@@ -102,7 +102,13 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Laboratório de Inovação FNDE | DF | FNDE | |
 | #CAIXAlab | SP | Caixa Ecônomica Federal | |
 | Laboratório de Gestão da Inovação da Justiça Federal - iJuspLab | SP | JFSP | https://www.jfsp.jus.br/servicos-administrativos/ijusplab |
-
+| i9.JFRN | RN | JFRN | https://i9.jfrn.jus.br/i9 |
+| Laboratório de Gestão de Inovação | ES | TRES | https://inova.tre-es.jus.br/ |
+| Espaço de Convivência e Inovação | RJ | JFRJ | |
+| Escritório de Inovação | RO | TJRO | |
+| Laboratório de Inovação Tecnológica e de Negócios-MPLabs MPPE | PE | MPPE | |
+| Laboratório de Inovação do TRTPR | PR | TRTPR | |
+| LabJus | SC | TJRS | | 
 
 
 ## 11. Siglas
