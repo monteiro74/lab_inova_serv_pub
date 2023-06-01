@@ -70,7 +70,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
-Legislação correlata:
+#### 2.3.1. Legislação correlata:
 
 | Legislação | Observacao | URL |
 | ---------- | ---------- | --- |
