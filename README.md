@@ -5,11 +5,8 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 (Primeira postagem em: maio/2023).
 
 
-## Preambulo - Definição de inovação
 
-
-
-1. Definição de inovação:
+## 1. Definição de inovação:
 
 Definição: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
 Fonte: Rogers, E. M. Diffusion of innovations. New York: The Free Press, 2003
@@ -34,7 +31,6 @@ Fonte: National Audit Office, 2006b, p. 4.
 
 
 ## Assuntos armazenados aqui:
-
 
 
 2. Laboratório de Inovação
