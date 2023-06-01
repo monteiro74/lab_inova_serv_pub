@@ -47,6 +47,8 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 “Os laboratórios de inovação do governo são espaços de parceria onde o governo e outras organizações experimentam novas formas de resolver problemas antigos.” (UNDP, p. 6), Fonte: UNDP.
 
+LISP: "Laboratórios de inovação no setor público são ambientes colaborativos que buscam fomentar a criatividade, a experimentação e a inovação, por meio da adoção de metodologias ativas e da cocriação, na resolução de problemas", [2].
+
 ### 2.2. Objetivos:
 
 1. Fomentar um ambiente inovador na administração pública <br>
@@ -85,13 +87,16 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 ## 9. Outros materiais
 
-## 10. Siglas
+## 10. Contatos de alguns laboratórios de inovação
 
-## LISP - Laboratórios de Inovação no Setor Público
+## 11. Siglas
+
+LISP - Laboratórios de Inovação no Setor Público
 
 
 
-Referências:
+## Referências
+
 [1] Descobrindo laboratórios de inovação no setor público. https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
 
 [2] Laboratórios de inovação no setor público: mapeamento e diagnóstico de experiências nacionais. https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf
