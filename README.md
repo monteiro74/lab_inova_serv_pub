@@ -74,7 +74,7 @@ Legislação correlata:
 
 | Legislação | Observacao | URL |
 | ---------- | ---------- | --- |
-|            |            |     |
+| Lei n. 10.973, de 2 de dezembro de 2004 | Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. | http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm    |
 
 
 ## 3. Contratação de inovação
