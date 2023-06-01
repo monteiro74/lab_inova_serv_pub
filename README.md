@@ -108,7 +108,7 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Escritório de Inovação | RO | TJRO | |
 | Laboratório de Inovação Tecnológica e de Negócios-MPLabs MPPE | PE | MPPE | |
 | Laboratório de Inovação do TRTPR | PR | TRTPR | |
-| LabJus | SC | TJRS | | 
+| LabJus | SC | TJSC | | 
 
 
 ## 11. Siglas
