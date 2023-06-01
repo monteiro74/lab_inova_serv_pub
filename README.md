@@ -76,7 +76,8 @@ Legislação correlata:
 | ---------- | ---------- | --- |
 | Lei n. 10.973, de 2 de dezembro de 2004 | Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. | http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm |
 | Resolução Nº 221 de 10/05/2016 | Institui princípios de gestão participativa e democrática na elaboração das metas nacionais do Poder Judiciário e das políticas judiciárias do Conselho Nacional de Justiça. | https://atos.cnj.jus.br/atos/detalhar/2279 |
-
+| Resolução Nº 325 de 29/06/2020 | Dispõe sobre a Estratégia Nacional do Poder Judiciário 2021-2026 e dá outras providências. | https://atos.cnj.jus.br/atos/detalhar/3365 |
+| Resolução Nº 296 de 19/09/2019 | Cria e revoga Comissões Permanentes no âmbito do Conselho Nacional de Justiça. Art. 4º À Comissão Permanente de Tecnologia da Informação e Inovação compete..... | https://atos.cnj.jus.br/atos/detalhar/3038 |
 
 
 ## 3. Contratação de inovação
