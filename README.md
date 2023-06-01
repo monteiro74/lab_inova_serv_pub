@@ -43,13 +43,17 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 ### 2.2. Base legal
 
-3. Contratação de inovação
-- 3.1. Definição
-- 3.2. Base legal 
+## 3. Contratação de inovação
 
-4. Encomendas técnicas
-- 4.1. Definição
-- 4.2. Base legal
+### 3.1. Definição
+
+### 3.2. Base legal 
+
+## 4. Encomendas técnicas
+
+### 4.1. Definição
+
+### 4.2. Base legal
 
 5. Lei das startups
 - 5.1. Definição
