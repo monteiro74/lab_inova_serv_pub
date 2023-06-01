@@ -87,12 +87,17 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 
 ## 9. Outros materiais
 
-## 10. Contatos de alguns laboratórios de inovação
+## 10. Lista de alguns laboratórios de inovação
+
+| Laboratório   | Localização   | Instituição | URL
+| ------------- | ------------- | 
+| Laboratório de Tecnologias de Apoio a Redes de Invacao - LabTAR  | Vitória (ES)  | UFES |
+
+
 
 ## 11. Siglas
 
 LISP - Laboratórios de Inovação no Setor Público
-
 
 
 ## Referências
