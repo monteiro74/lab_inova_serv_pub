@@ -116,7 +116,10 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | LABINOVA12 (TRT-SC) | SC | Tribunal Regional do Trabalho | |
 | Laboratório de Inovação, Inteligência e Objetivo de Desenvolvimento Sustentável – LIODS | DF | CNMP | |
 | INOVA – MPRJ | RJ | MPRJ | |
-
+| LabHacker | DF | Câmara dos Deputados | |
+| Laboratório de Inovação e Coparticipação –coLAB-i | DF | TCU | |
+| Laboratório Hacker de Inovação (Labhinova) | DF | Câmara Legislativa do DF | |
+| Laboratório de inovação em compras públicas - LAB-COMP | DF | Câmara dos Deputados | |
 
 
 
