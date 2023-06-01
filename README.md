@@ -4,7 +4,6 @@
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
-[link](https://www.youtube.com){:target="_blank"}
 
 ## 1. Definição de inovação:
 
