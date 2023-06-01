@@ -1,9 +1,8 @@
 # lab_inova_serv_pub
-Laboratório de inovação no serviço público.
+Laboratório de Inovação no Serviço Público (LISP).
 
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
-
 
 
 ## 1. Definição de inovação:
@@ -30,7 +29,6 @@ Definição 7: There is no widely accepted or common definition of what counts a
 Fonte: National Audit Office, 2006b, p. 4.
 
 
-
 ## 2. Laboratório de Inovação
 
 ### 2.1. Definição:
@@ -41,7 +39,7 @@ Os laboratórios de inovação são estruturas que fazem parte da administraçã
 
 Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
-#### Laboratórios em governos:
+#### 2.1.1. Definições de laboratórios de inovação em governos:
 
 “Os laboratórios de inovação do governo são lugares dinâmicos que estimulam a criatividade para o design de soluções para políticas públicas. Esses laboratórios geralmente possuem equipes multissetoriais e abordam as questões de forma colaborativa.” (Acevedo, Dassen, 2016, p. 19), Fonte: BID.
 
