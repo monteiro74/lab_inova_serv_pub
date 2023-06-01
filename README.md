@@ -70,7 +70,11 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
-TRF1 cria Laboratório de Inovação da Justiça Federal da 1ª Região
+Legislação correlata:
+
+| Legislação | Observacao | URL |
+| ---------- | ---------- | --- |
+|            |            |     |
 
 
 ## 3. Contratação de inovação
