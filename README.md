@@ -64,7 +64,9 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 
 Resolução CNJ nº 395/2021 instituiu a Política de Gestão da Inovação no âmbito do Poder Judiciário. [https://atos.cnj.jus.br/files/original1259312021060960c0bb3333a4f.pdf]
 
-Base legal para criar o laboratório LIODS: https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020
+Portarias:
+
+Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável da Justiça Eleitoral): https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020
 
 
 ## 3. Contratação de inovação
