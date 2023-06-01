@@ -49,7 +49,7 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 LISP: "Laboratórios de inovação no setor público são ambientes colaborativos que buscam fomentar a criatividade, a experimentação e a inovação, por meio da adoção de metodologias ativas e da cocriação, na resolução de problemas", [2].
 
-### 2.2. Objetivos:
+### 2.2. Objetivos de laboratórios:
 
 1. Fomentar um ambiente inovador na administração pública <br>
 2. Desenvolver inovações específicas <br>
@@ -60,6 +60,12 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 7. Abrir os dados da administração pública <br>
 
 ### 2.3. Base legal
+
+
+Resolução CNJ nº 395/2021 instituiu a Política de Gestão da Inovação no âmbito do Poder Judiciário. [https://atos.cnj.jus.br/files/original1259312021060960c0bb3333a4f.pdf]
+
+Base legal para criar o laboratório LIODS: https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020
+
 
 ## 3. Contratação de inovação
 
