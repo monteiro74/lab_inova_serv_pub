@@ -9,10 +9,36 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 
 
+1. Definição de inovação:
+
+Definição: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
+Fonte: Rogers, E. M. Diffusion of innovations. New York: The Free Press, 2003
+
+Definição: “Inovação bem-sucedida é a criação e implementação de novos processos, produtos, serviços e métodos de entrega que resultam em melhorias significativas na eficiência, eficácia ou qualidade dos resultados.”
+Fonte: Mulgan, G.; Albury, D. Innovation in the public sector. London: Cabinet Office Strategy Unit, 2003
+
+Definição: “Inovação é a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais. Representa descontinuidade com o passado".
+Fonte: Osborne, S.; Brown, K. Managing change and innovation in public service organizations. New York: Routledge, 2005.
+
+Definição: "resposta a um desafio ou problema, que pode ser útil a outros, como parte de um repertório de alternativas a serem consideradas por aqueles que enfrentam problemas similares".
+Fonte: Farah, M. Disseminação de inovações e políticas públicas e espaço local. O&S, v. 15, n. 45, p. 107-126, 2008.
+
+Definição: “um processo por meio do qual novas ideias, objetos e práticas são criados, desenvolvidos ou reinventados e que são novos e inéditos para a unidade de adoção.”
+Fonte: Walker, R. Innovation type and diffusion: an empirical analysis of local government. Public Administration, v. 84, n. 2, p.311-35, 2006.
+
+Definição: “a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais, o que representa a descontinuidade com o passado”.
+Fonte: Bekkers, V.; Edelenbos, J.; Steijn, A. Innovation in the public sector: linking capacity and leadership. New York: Palgrave Macmillan, 2011.
+
+Definição: There is no widely accepted or common definition of what counts as ‘innovation’.
+Fonte: National Audit Office, 2006b, p. 4.
+
+
 ## Assuntos armazenados aqui:
 
-1. Laboratório de Inovação
-- 1.1. Definição:
+
+
+2. Laboratório de Inovação
+- 2.1. Definição:
 
 Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão descritos como versões de várias organizações existentes: como híbridas de grupo de pensadores (think tanks), laboratórios digitais de pesquisa e desenvolvimento (P&D), empreendimentos sociais e organizações beneficentes, Fonte: [https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf].
 
@@ -20,21 +46,25 @@ Os laboratórios de inovação são estruturas que fazem parte da administraçã
 
 Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
-- 1.2. Base legal
-2. Contratação de inovação
-- 2.1. Definição
-- 2.2. Base legal 
-3. Encomendas técnicas
+- 2.2. Base legal
+
+3. Contratação de inovação
 - 3.1. Definição
-- 3.2. Base legal
-4. Lei das startups
+- 3.2. Base legal 
+
+4. Encomendas técnicas
 - 4.1. Definição
 - 4.2. Base legal
-5. Linguagem simples
-6. Videos
-7. Cursos
-8. Outros materiais
-9. Siglas
+
+5. Lei das startups
+- 5.1. Definição
+- 5.2. Base legal
+
+6. Linguagem simples
+7. Videos
+8. Cursos
+9. Outros materiais
+10. Siglas
 
 LISP - Laboratórios de Inovação no Setor Público
 
