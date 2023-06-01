@@ -66,7 +66,7 @@ Resolução CNJ nº 395/2021 instituiu a Política de Gestão da Inovação no �
 
 Portarias:
 
-Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável da Justiça Eleitoral): https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020
+Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável da Justiça Eleitoral): https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020 e Tribunal Regional Eleitoral do Ceará, a Portaria nº 544/2021: https://sintse.tse.jus.br/documentos/2022/Jul/15/diario-da-justica-eletronico-tres-destaques/portaria-no-596-2022-altera-a-portaria-no-544-2021-que-institui-o-laboratorio-de-inovacao-inteligenc
 
 
 ## 3. Contratação de inovação
