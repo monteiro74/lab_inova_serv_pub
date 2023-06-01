@@ -51,13 +51,13 @@ Laboratórios em governos:
 
 ### 2.2. Objetivos:
 
-1 Fomentar um ambiente inovador na administração pública <br>
-2 Desenvolver inovações específicas <br>
-3 Introduzir tecnologias na administração pública <br>
-4 Modernizar os processos da administração pública <br>
-5 Criar novos mecanismos de participação do cidadão <br>
-6 Introduzir novos métodos de comunicação na administração pública <br>
-7 Abrir os dados da administração pública <br>
+1. Fomentar um ambiente inovador na administração pública <br>
+2. Desenvolver inovações específicas <br>
+3. Introduzir tecnologias na administração pública <br>
+4. Modernizar os processos da administração pública <br>
+5. Criar novos mecanismos de participação do cidadão <br>
+6. Introduzir novos métodos de comunicação na administração pública
+7. Abrir os dados da administração pública
 
 ### 2.3. Base legal
 
