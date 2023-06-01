@@ -55,17 +55,23 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 ### 4.2. Base legal
 
-5. Lei das startups
-- 5.1. Definição
-- 5.2. Base legal
+## 5. Lei das startups
 
-6. Linguagem simples
-7. Videos
-8. Cursos
-9. Outros materiais
-10. Siglas
+### 5.1. Definição
 
-LISP - Laboratórios de Inovação no Setor Público
+### 5.2. Base legal
+
+## 6. Linguagem simples
+
+## 7. Videos
+
+## 8. Cursos
+
+## 9. Outros materiais
+
+## 10. Siglas
+
+## LISP - Laboratórios de Inovação no Setor Público
 
 
 
