@@ -109,6 +109,15 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Laboratório de Inovação Tecnológica e de Negócios-MPLabs MPPE | PE | MPPE | |
 | Laboratório de Inovação do TRTPR | PR | TRTPR | |
 | LabJus | SC | TJSC | | 
+| Laboratório de Inovação em Governança | RS | Seção Judiciária do Rio Grande do Sul | |
+| Laboratório de Inovação | CE | Seção Judiciária do Ceará | |
+| Laboratório de Inovação para o Processo Judicial em meio Eletrônico (Inova PJe) | DF | Conselho Nacional de Justiça | |
+| LAB-IN (TRE-TO) | TO | Tribunal Regional Eleitoral de Tocantins | | 
+| LABINOVA12 (TRT-SC) | SC | Tribunal Regional do Trabalho | |
+| Laboratório de Inovação, Inteligência e Objetivo de Desenvolvimento Sustentável – LIODS | DF | CNMP | |
+| INOVA – MPRJ | RJ | MPRJ | |
+
+
 
 
 ## 11. Siglas
