@@ -8,25 +8,25 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 ## 1. Definição de inovação:
 
-Definição: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
+Definição 1: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
 Fonte: Rogers, E. M. Diffusion of innovations. New York: The Free Press, 2003
 
-Definição: “Inovação bem-sucedida é a criação e implementação de novos processos, produtos, serviços e métodos de entrega que resultam em melhorias significativas na eficiência, eficácia ou qualidade dos resultados.”
+Definição 2: “Inovação bem-sucedida é a criação e implementação de novos processos, produtos, serviços e métodos de entrega que resultam em melhorias significativas na eficiência, eficácia ou qualidade dos resultados.”
 Fonte: Mulgan, G.; Albury, D. Innovation in the public sector. London: Cabinet Office Strategy Unit, 2003
 
-Definição: “Inovação é a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais. Representa descontinuidade com o passado".
+Definição 3: “Inovação é a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais. Representa descontinuidade com o passado".
 Fonte: Osborne, S.; Brown, K. Managing change and innovation in public service organizations. New York: Routledge, 2005.
 
-Definição: "resposta a um desafio ou problema, que pode ser útil a outros, como parte de um repertório de alternativas a serem consideradas por aqueles que enfrentam problemas similares".
+Definição 4: "resposta a um desafio ou problema, que pode ser útil a outros, como parte de um repertório de alternativas a serem consideradas por aqueles que enfrentam problemas similares".
 Fonte: Farah, M. Disseminação de inovações e políticas públicas e espaço local. O&S, v. 15, n. 45, p. 107-126, 2008.
 
-Definição: “um processo por meio do qual novas ideias, objetos e práticas são criados, desenvolvidos ou reinventados e que são novos e inéditos para a unidade de adoção.”
+Definição 5: “um processo por meio do qual novas ideias, objetos e práticas são criados, desenvolvidos ou reinventados e que são novos e inéditos para a unidade de adoção.”
 Fonte: Walker, R. Innovation type and diffusion: an empirical analysis of local government. Public Administration, v. 84, n. 2, p.311-35, 2006.
 
-Definição: “a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais, o que representa a descontinuidade com o passado”.
+Definição 6: “a introdução de novos elementos em um serviço público - na forma de novos conhecimentos, uma nova organização e / ou novas habilidades gerenciais ou processuais, o que representa a descontinuidade com o passado”.
 Fonte: Bekkers, V.; Edelenbos, J.; Steijn, A. Innovation in the public sector: linking capacity and leadership. New York: Palgrave Macmillan, 2011.
 
-Definição: There is no widely accepted or common definition of what counts as ‘innovation’.
+Definição 7: There is no widely accepted or common definition of what counts as ‘innovation’.
 Fonte: National Audit Office, 2006b, p. 4.
 
 
