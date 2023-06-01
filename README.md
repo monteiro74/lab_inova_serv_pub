@@ -41,14 +41,25 @@ Os laboratórios de inovação são estruturas que fazem parte da administraçã
 
 Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
+Laboratórios em governos:
+
 “Os laboratórios de inovação do governo são lugares dinâmicos que estimulam a criatividade para o design de soluções para políticas públicas. Esses laboratórios geralmente possuem equipes multissetoriais e abordam as questões de forma colaborativa.” (Acevedo, Dassen, 2016, p. 19), Fonte: BID.
 
 “Um laboratório é um espaço e um conjunto de protocolos para envolver jovens, tecnólogos, setor privado e sociedade civil na solução de problemas.” (Unicef, 2012, p. 13), Fonte: UNICEF.
 
 “Os laboratórios de inovação do governo são espaços de parceria onde o governo e outras organizações experimentam novas formas de resolver problemas antigos.” (UNDP, p. 6), Fonte: UNDP.
 
+### 2.2. Objetivos:
 
-### 2.2. Base legal
+1 Fomentar um ambiente inovador na administração pública
+2 Desenvolver inovações específicas
+3 Introduzir tecnologias na administração pública
+4 Modernizar os processos da administração pública
+5 Criar novos mecanismos de participação do cidadão
+6 Introduzir novos métodos de comunicação na administração pública
+7 Abrir os dados da administração pública
+
+### 2.3. Base legal
 
 ## 3. Contratação de inovação
 
