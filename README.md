@@ -101,6 +101,7 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 | Laboratório de Inovação da ANVISA - LAB-iVISA | DF | ANVISA | |
 | Laboratório de Inovação FNDE | DF | FNDE | |
 | #CAIXAlab | SP | Caixa Ecônomica Federal | |
+| Laboratório de Gestão da Inovação da Justiça Federal - iJuspLab | SP | JFSP | https://www.jfsp.jus.br/servicos-administrativos/ijusplab |
 
 
 
