@@ -82,7 +82,10 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 ## 3. Contratação de inovação
 
+
 ### 3.1. Definição
+
+O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
 
 ### 3.2. Base legal 
 
@@ -157,4 +160,6 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 [2] Laboratórios de inovação no setor público: mapeamento e diagnóstico de experiências nacionais. https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf
 
-[3] 
+[3] Capítulo 12 - Contrato público de soluções inovadoras: racionalidade fundamental e posicionamento no mix de políticas de inovação que atuam pelo lado da demanda. https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf
+
+
