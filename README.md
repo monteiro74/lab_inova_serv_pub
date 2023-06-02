@@ -144,11 +144,11 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 ## 11. Siglas
 
-CPSI - Contrato Público para Solução Inovadora
+*CPSI - Contrato Público para Solução Inovadora
 
-LISP - Laboratórios de Inovação no Setor Público
+*LISP - Laboratórios de Inovação no Setor Público
 
-MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
+*MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
 
 
 
