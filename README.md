@@ -13,11 +13,11 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 [3 Contratação de inovação](#3-Contratação-de-inovação)
 
-[4 Encomendas técnicas](#)
+[4 Encomendas técnicas](#4-Encomendas-técnicas)
 
-[5 Lei das startups](#)
+[5 Lei das startups](#5-Lei-das-startups)
 
-[6 Linguagem simples](#)
+[6 Linguagem simples](#6-Linguagem-simples)
 
 [7 Videos](#)
 
