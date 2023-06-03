@@ -23,6 +23,11 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 <!---
      comentario 0
+
+```
+caixa de texto
+```
+
 -->
 
 [
@@ -33,17 +38,6 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 [
      comentário 2
 ]:#
-
-[
-     comentário 3
-]: #
-
-
-
-```
-caixa de texto
-```
-
 
 
 
