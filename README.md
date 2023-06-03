@@ -137,9 +137,14 @@ O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para
 
 O MLSEI permite definir a titularidade do DPIs.
 
+Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação, assim como a alternativa da não contratação, tudo dependerá do resultados dos testes.
+
 Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação.
 
-
+|	          | CPSI          | Contrato de fornecimento|
+| ------------ | ------------- | ----------------------- |
+| Tempo        | 12 meses + 12 | 24 meses + 24           |
+| Valor        | 1,6 milhão    | 8 milhões               |
 
 ### 3.2. Base legal 
 
