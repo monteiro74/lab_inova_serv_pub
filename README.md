@@ -19,13 +19,15 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 [6 Linguagem simples](#6-Linguagem-simples)
 
-[7 Videos](#)
+[7 Videos](#7-Videos)
 
-[8 Cursos](#)
+[8 Cursos](#8-Cursos)
 
-[10 Lista de alguns laboratórios de inovação](#)
+[9 Outros materiais](#9-Outros-materiais)
 
-[11 Siglas](#)
+[10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação)
+
+[11 Siglas](#11-Siglas)
 
 [Referências](#Referências)
 
