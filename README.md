@@ -6,7 +6,7 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 [Link1](#1.)
 
-[Link2](#2. Laboratório de Inovação)
+[Link2](#2 Laboratório de Inovação)
 
 * [1. Definição de inovação:](#1.-Definição-de-inovação:)
 
@@ -38,7 +38,7 @@ Definição 7: There is no widely accepted or common definition of what counts a
 Fonte: National Audit Office, 2006b, p. 4.
 
 
-## 2. Laboratório de Inovação
+## 2 Laboratório de Inovação
 
 ## teste
 
