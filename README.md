@@ -137,10 +137,13 @@ A partir da fonte citada acima, temos alguns pontos a destacar:
 * Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação, assim como a alternativa da não contratação, tudo dependerá do resultados dos testes.
 * Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação.
 
+Comparativo:
+
 |	          | CPSI          | Contrato de fornecimento|
 | ------------ | ------------- | ----------------------- |
 | Tempo        | 12 meses + 12 | 24 meses + 24           |
 | Valor        | 1,6 milhão    | 8 milhões               |
+
 
 
 ## 4 Encomendas técnicas
@@ -152,6 +155,38 @@ A partir da fonte citada acima, temos alguns pontos a destacar:
 ### 5.1. Definição
 
 ## 6 Bases legais
+
+
+Título: Lei de Inovação Lei no 10.973/2004
+Descrição:
+Ano: 2004
+URL: 
+
+Título: Emenda Constitucional (EC) no 85, de 2015
+Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.
+Ano: 2015
+URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165
+
+Título: 
+Descrição:
+Ano:
+URL:
+
+Título: 
+Descrição:
+Ano:
+URL:
+
+Título: 
+Descrição:
+Ano:
+URL:
+
+Título: 
+Descrição:
+Ano:
+URL:
+
 
 ## 7 Linguagem simples
 
