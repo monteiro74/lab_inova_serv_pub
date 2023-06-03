@@ -269,6 +269,6 @@ URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br
 
 [2] Laboratórios de inovação no setor público: mapeamento e diagnóstico de experiências nacionais. https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf
 
-[3] Capítulo 12 - Contrato público de soluções inovadoras: racionalidade fundamental e posicionamento no mix de políticas de inovação que atuam pelo lado da demanda. https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf
+[3] Livro: Compras públicas para inovação no brasil: novas possibilidades legais, Capítulo 12 - Contrato público de soluções inovadoras: racionalidade fundamental e posicionamento no mix de políticas de inovação que atuam pelo lado da demanda. https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf
 
 
