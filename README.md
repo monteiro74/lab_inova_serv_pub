@@ -41,17 +41,10 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+caixa de texto
 ```
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
 
 
 
