@@ -106,9 +106,9 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 ### 3.1. Definição
 
-O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
+O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [link](https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf){:target="_blank"}.
 
-
+[link](url)
 
 ### 3.2. Base legal 
 
