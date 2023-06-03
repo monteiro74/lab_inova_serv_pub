@@ -4,7 +4,7 @@
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
-[Link1](#1-Definição-de-inovação)
+[Definição de inovação](#1-Definição-de-inovação)
 
 [Link2](#2-Laboratório-de-Inovação)
 
@@ -88,7 +88,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 | Resolução Nº 296 de 19/09/2019 | Cria e revoga Comissões Permanentes no âmbito do Conselho Nacional de Justiça. Art. 4º À Comissão Permanente de Tecnologia da Informação e Inovação compete..... | https://atos.cnj.jus.br/atos/detalhar/3038 |
 
 
-## 3. Contratação de inovação
+## 3 Contratação de inovação
 
 
 ### 3.1. Definição
@@ -99,27 +99,27 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 
 ### 3.2. Base legal 
 
-## 4. Encomendas técnicas
+## 4 Encomendas técnicas
 
 ### 4.1. Definição
 
 ### 4.2. Base legal
 
-## 5. Lei das startups
+## 5 Lei das startups
 
 ### 5.1. Definição
 
 ### 5.2. Base legal
 
-## 6. Linguagem simples
+## 6 Linguagem simples
 
-## 7. Videos
+## 7 Videos
 
-## 8. Cursos
+## 8 Cursos
 
-## 9. Outros materiais
+## 9 Outros materiais
 
-## 10. Lista de alguns laboratórios de inovação
+## 10 Lista de alguns laboratórios de inovação
 
 | Laboratório   | Localização   | Instituição | URL |
 | ------------- | ------------- | ----------- | --- |
@@ -155,7 +155,7 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 
 
 
-## 11. Siglas
+## 11 Siglas
 
 * CPSI - Contrato Público para Solução Inovadora
 * LISP - Laboratórios de Inovação no Setor Público
