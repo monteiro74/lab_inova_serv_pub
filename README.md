@@ -190,6 +190,7 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 * ETEC - Encomenda tecnológica
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
+* MVP -  Minimum Viable Product (tradução em inglês de produto mínimo viável)
 
 
 
