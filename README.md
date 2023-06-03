@@ -22,9 +22,23 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 
 <!---
-your comment goes here
-and here
+Comentários...
 -->
+
+[
+comentário 1
+]: #
+
+
+[  
+     comentário 2
+]:#
+
+[
+  comentário 3
+]: #
+
+
 
 
 ## 1 Definição de inovação
