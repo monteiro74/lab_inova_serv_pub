@@ -125,21 +125,17 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
 
-Um CPSI tem uma "trava" de valor limite de R$ 1,6 milhão por contrato e outro trava de duração contratual de 12 meses, prorrogável por até 12 doze meses.
 
-Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI tem o "contrato de fornecimento".
+A partir da fonte citada acima, temos alguns pontos a destacar:
 
-Etec deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
-
-CPSI permite remunerar P&D.
-
-O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
-
-O MLSEI permite definir a titularidade do DPIs.
-
-Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação, assim como a alternativa da não contratação, tudo dependerá do resultados dos testes.
-
-Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação.
+* Um CPSI tem uma "trava" de valor limite de R$ 1,6 milhão por contrato e outro trava de duração contratual de 12 meses, prorrogável por até 12 doze meses.
+* Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI tem o "contrato de fornecimento".
+* Etec deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
+* CPSI permite remunerar P&D.
+* O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
+* O MLSEI permite definir a titularidade do DPIs.
+* Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação, assim como a alternativa da não contratação, tudo dependerá do resultados dos testes.
+* Se houver sucesso nos testes do CPSI, o MLSEI autoriza a contratação direta por dispensa de licitação.
 
 |	          | CPSI          | Contrato de fornecimento|
 | ------------ | ------------- | ----------------------- |
