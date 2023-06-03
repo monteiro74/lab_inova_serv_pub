@@ -1,5 +1,5 @@
 # lab_inova_serv_pub
-## Laboratório de Inovação no Serviço Público (LISP).
+## Sobre os Laboratórios de Inovação no Serviço Público (LISP).
 
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
@@ -182,6 +182,10 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 ## 5 Lei das startups
 
 ### 5.1. Definição
+
+
+
+
 
 ## 6 Bases legais
 
