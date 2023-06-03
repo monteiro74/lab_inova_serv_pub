@@ -150,6 +150,13 @@ Comparativo:
 
 ### 4.1. Definição
 
+
+Definições: A Encomenda Tecnológica (ETEC) é um dos instrumentos de estímulo à inovação instituídos pela Lei 10.973/2004 (Lei de Inovação), alterada pela Lei 13.243/2016 e regulamentada pelo Decreto 9.283/2018. A ETEC também é prevista como um dos casos de dispensa de licitação, conforme art. 24, inciso XXXI, da Lei 8.666/1993, que se aplica ao presente instrumento subsidiariamente, visto que a Lei de Inovação prevê regras específicas para esse tipo de contratação.
+
+A ETEC pode ser adotada em situações de falha de mercado e alto nível de incerteza, ou seja, quando o Estado se depara com um problema ou uma necessidade cuja solução não é conhecida ou não está disponível e envolve risco tecnológico. Nesse tipo de situação, a Administração Pública pode apresentar o problema para o mercado e identificar potenciais interessados em investir no desenvolvimento da solução. São identificados os potenciais interessados que apresentam maior probabilidade de sucesso, com possibilidade de contratação de mais de um.
+
+Fonte: [https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm]
+
 ## 5 Lei das startups
 
 ### 5.1. Definição
