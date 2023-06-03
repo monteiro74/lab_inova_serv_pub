@@ -21,8 +21,10 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 [12 Referências](#12-Referências) <br>
 
 
-
-## ___________________________________________________
+<!---
+your comment goes here
+and here
+-->
 
 
 ## 1 Definição de inovação
@@ -83,7 +85,7 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 ### 2.3. Base legal
 
 
-Resolução CNJ nº 395/2021 instituiu a Política de Gestão da Inovação no âmbito do Poder Judiciário. [https://atos.cnj.jus.br/files/original1259312021060960c0bb3333a4f.pdf]
+Resolução CNJ nº 395/2021 instituiu a Política de Gestão da Inovação no âmbito do Poder Judiciário. Fonte: [https://atos.cnj.jus.br/files/original1259312021060960c0bb3333a4f.pdf]
 
 Portarias:
 
