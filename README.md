@@ -165,10 +165,10 @@ Ano: 2004.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm.<br>
 
 
-Título: Emenda Constitucional (EC) no 85, de 2015.
-Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.
-Ano: 2015.
-URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.
+Título: Emenda Constitucional (EC) no 85, de 2015.<br>
+Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.<br>
+Ano: 2015.<br>
+URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.<br>
 
 Título: 
 Descrição:
