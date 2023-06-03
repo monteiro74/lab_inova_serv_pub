@@ -4,6 +4,9 @@
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
+
+Conteúdo:
+
 [1 Definição de inovação](#1-Definição-de-inovação)
 
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação)
@@ -14,9 +17,23 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 [5 Lei das startups](#)
 
+[6 Linguagem simples](#)
+
+[7 Videos](#)
+
+[8 Cursos](#)
+
+[10 Lista de alguns laboratórios de inovação](#)
+
+[11 Siglas](#)
+
+[Referências](#Referências)
+
+
+
+
+
 ## 1 Definição de inovação
-
-
 
 Definição 1: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
 Fonte: Rogers, E. M. Diffusion of innovations. New York: The Free Press, 2003.
