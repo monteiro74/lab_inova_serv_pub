@@ -18,7 +18,7 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 [9 Outros materiais](#9-Outros-materiais) <br>
 [10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação) <br>
 [11 Siglas](#11-Siglas) <br>
-[Referências](#Referências) <br>
+[12 Referências](#12-Referências) <br>
 
 
 
@@ -176,7 +176,7 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 
 
 
-## Referências
+## 12 Referências
 
 [1] Descobrindo laboratórios de inovação no setor público. https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
 
