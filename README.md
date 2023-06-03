@@ -4,6 +4,7 @@
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
+[Definição de inovação][Definição de inovação]
 
 ## 1. Definição de inovação:
 
@@ -153,9 +154,6 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
 
-| SIGLA | Definição |
-| ----- | --------- |
-| CPSI  | Contrato Público para Solução Inovadora |
 
 
 ## Referências
