@@ -7,15 +7,15 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 ## Conteúdo:
 
-[1 Definição de inovação](#1-Definição-de-inovação)
-[2 Laboratório de inovação](#2-Laboratório-de-Inovação)
-[3 Contratação de inovação](#3-Contratação-de-inovação)
-[4 Encomendas técnicas](#4-Encomendas-técnicas)
-[5 Lei das startups](#5-Lei-das-startups)
-[6 Linguagem simples](#6-Linguagem-simples)
-[7 Videos](#7-Videos)
-[8 Cursos](#8-Cursos)
-[9 Outros materiais](#9-Outros-materiais)
+[1 Definição de inovação](#1-Definição-de-inovação) <br>
+[2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
+[3 Contratação de inovação](#3-Contratação-de-inovação) <br>
+[4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
+[5 Lei das startups](#5-Lei-das-startups) <br>
+[6 Linguagem simples](#6-Linguagem-simples) <br>
+[7 Videos](#7-Videos) <br>
+[8 Cursos](#8-Cursos) <br>
+[9 Outros materiais](#9-Outros-materiais) <br>
 [10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação)
 [11 Siglas](#11-Siglas)
 [Referências](#Referências)
