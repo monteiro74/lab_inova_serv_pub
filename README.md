@@ -157,10 +157,16 @@ Comparativo:
 ## 6 Bases legais
 
 
-- Título: Lei de Inovação Lei no 10.973/2004.
-* Descrição:
-* Ano: 2004.
-* URL: 
+```
+caixa de texto
+```
+
+```
+Título: Lei de Inovação Lei no 10.973/2004.
+Descrição: Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Ano: 2004.
+URL: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm.
+```
 
 Título: Emenda Constitucional (EC) no 85, de 2015.
 Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.
