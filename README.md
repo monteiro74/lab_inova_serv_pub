@@ -177,10 +177,10 @@ Descrição: Regulamenta a Lei de Inovação para estabelecer medidas de incenti
 Ano: 2018. <br>
 URL: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9283.htm. <br>
 
-Título: Lei complementar Nº 182, de 1º de Junho de 2021. <br>
-Descrição: 
+Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
+Descrição: Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. <br>
 Ano: 2021. <br> 
-URL:
+URL: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm. <br>
 
 Título: 
 Descrição:
