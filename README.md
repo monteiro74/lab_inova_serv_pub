@@ -22,20 +22,20 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 
 
 <!---
-Comentários...
+     comentario 0
 -->
 
 [
-comentário 1
+     comentário 1
 ]: #
 
 
-[  
+[
      comentário 2
 ]:#
 
 [
-  comentário 3
+     comentário 3
 ]: #
 
 
