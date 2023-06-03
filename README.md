@@ -156,7 +156,7 @@ Comparativo:
 
 ## 6 Bases legais
 
-Título: Lei Nº 8.666, de 21 de Junho de 1993.
+Título: Lei Nº 8.666, de 21 de Junho de 1993.<br>
 Descrição: Institui normas para licitações e contratos da Administração Pública. <br>
 Ano: 1993. <br>
 URL: https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm. <br>
