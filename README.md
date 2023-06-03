@@ -135,7 +135,7 @@ CPSI permite remunerar P&D.
 
 O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
 
-
+O MLSEI permite definir a titularidade do DPIs.
 
 ### 3.2. Base legal 
 
@@ -198,6 +198,7 @@ O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para
 ## 11 Siglas
 
 * CPSI - Contrato Público para Solução Inovadora
+* DPI - Direito de Propriedade Intelectual
 * ETEC - Encomenda tecnológica
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
