@@ -187,6 +187,7 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 ## 11 Siglas
 
 * CPSI - Contrato Público para Solução Inovadora
+* ETEC - Encomenda tecnológica
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
 
