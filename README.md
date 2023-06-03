@@ -156,6 +156,10 @@ Comparativo:
 
 ## 6 Bases legais
 
+Título: Lei Nº 8.666, de 21 de Junho de 1993.
+Descrição: Institui normas para licitações e contratos da Administração Pública. <br>
+Ano: 1993. <br>
+URL: https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm. <br>
 
 Título: Lei de Inovação Lei no 10.973/2004. <br>
 Descrição: Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. <br>
@@ -182,15 +186,11 @@ Descrição: Institui o marco legal das startups e do empreendedorismo inovador;
 Ano: 2021. <br> 
 URL: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm. <br>
 
-Título: 
-Descrição:
-Ano:
-URL:
 
-Título: 
-Descrição:
-Ano:
-URL:
+Título: Lei de Licitações e Contratos Administrativos.<br>
+Descrição: Lei de Licitações e Contratos Administrativos.<br>
+Ano: 2021.<br>
+URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
 
 
 ## 7 Linguagem simples
