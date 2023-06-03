@@ -129,6 +129,12 @@ Um CPSI tem uma "trava" de valor limite de R$ 1,6 milhão por contrato e outro t
 
 Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI tem o "contrato de fornecimento".
 
+Etec deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
+
+CPSI permite remunerar P&D.
+
+O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
+
 
 
 ### 3.2. Base legal 
