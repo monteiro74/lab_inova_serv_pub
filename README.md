@@ -4,11 +4,15 @@
 Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
 (Primeira postagem em: maio/2023).
 
-[Definição de inovação](#1-Definição-de-inovação)
+[1 Definição de inovação](#1-Definição-de-inovação)
 
-[Link2](#2-Laboratório-de-Inovação)
+[2 Laboratório de inovação](#2-Laboratório-de-Inovação)
 
-* [1. Definição de inovação:](#1.-Definição-de-inovação:)
+[3 Contratação de inovação](#)
+
+[4 Encomendas técnicas](#)
+
+[5 Lei das startups](#)
 
 ## 1 Definição de inovação
 
