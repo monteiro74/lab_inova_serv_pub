@@ -157,15 +157,15 @@ Comparativo:
 ## 6 Bases legais
 
 
-Título: Lei de Inovação Lei no 10.973/2004
-Descrição:
-Ano: 2004
-URL: 
+- Título: Lei de Inovação Lei no 10.973/2004.
+* Descrição:
+* Ano: 2004.
+* URL: 
 
-Título: Emenda Constitucional (EC) no 85, de 2015
+Título: Emenda Constitucional (EC) no 85, de 2015.
 Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.
-Ano: 2015
-URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165
+Ano: 2015.
+URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.
 
 Título: 
 Descrição:
