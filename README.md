@@ -195,7 +195,8 @@ Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSE
 * ETEC - Encomenda tecnológica
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
-* MVP -  Minimum Viable Product (tradução em inglês de produto mínimo viável)
+* MVP -  Minimum Viable Product (produto mínimo viável)
+* NPT - Nível de Prontidão Tecnológica (technology readiness level) 
 * P&D - Pesquisa e Desenvolvimento
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
 
