@@ -6,10 +6,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 ###### Última atualização em: jun/2023.
 
 
-![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
 
 
-https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens/nova_lei_licitacao.jpeg
+
+
 
 ## Conteúdo:
 
@@ -29,6 +29,11 @@ https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens/nova_lei_lici
 
 <!---
      comentario 0
+
+
+     ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
+
+
 
 ```
 exemplo de caixa de texto
@@ -361,7 +366,7 @@ Conhecida como: Nova lei de licitações. <br>
 Descrição: Lei de Licitações e Contratos Administrativos.<br>
 Ano: 2021.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
-
+Ilustração: https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens/nova_lei_licitacao.jpeg
 
 ### 6.1. Diferenças entre tipos de compras
 
@@ -514,7 +519,6 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 * NMT -  Nível de Maturidade Tecnológica
 * P&D - Pesquisa e Desenvolvimento
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
-
 
 
 
