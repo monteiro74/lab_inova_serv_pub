@@ -9,6 +9,8 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
 
 
+https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens/nova_lei_licitacao.jpeg
+
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
