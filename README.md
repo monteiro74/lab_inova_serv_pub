@@ -174,12 +174,15 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 
 1. Cartilha do TCU sobre ETEC:  https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm
 2. ETEC de Instrução assistida por Inteligência Artificial https://portal.tcu.gov.br/licitacoes-e-contratos-do-tcu/
+3. Jornada para contratação: https://inovacpin.org/
+4. Exemplode constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
 
 
 ### 4.3. Edital exemplo:
 
 TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/16%20-%20Edital%20PUBLICADO.pdf
 
+Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
 
 ## 5 Lei das startups
 
