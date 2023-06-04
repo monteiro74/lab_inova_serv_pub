@@ -5,11 +5,6 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 
 ###### Última atualização em: jun/2023.
 
-[Google](https://google.com){target="_blank"}
-
-[go](http://stackoverflow.com){:target="_blank"}
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ## Conteúdo:
 
