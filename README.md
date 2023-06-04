@@ -25,28 +25,11 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 <!---
      comentario 0
 
-
-## 7 Linguagem simples
-
-## 8 Videos
-
-## 9 Cursos
-
-
 ```
-caixa de texto
+exemplo de caixa de texto
 ```
 
 -->
-
-[
-     comentário 1
-]: #
-
-
-[
-     comentário 2
-]:#
 
 
 
@@ -178,11 +161,34 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 4. Exemplo de constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
 5. ETEC guia geral de boas práticas: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf.
 
-### 4.3. Editais, exemplos
+### 4.3. Editais e contratos, exemplos
 
 TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/16%20-%20Edital%20PUBLICADO.pdf
 
 Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
+
+Prefeitura de Niterói http://www.prosustentavel.niteroi.rj.gov.br/wp-content/uploads/2020/10/TR_ETEC_rev07.pdf
+
+Fiocruz e Astrazeneca, termo de contrato https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
+
+PMMG https://www.compras.mg.gov.br/images/stories/ArquivosLicitacoes/SEPLAG/consultaspublicas/edital-consulta-publica-sei-1250.01.0003777-2022-09.pdf
+
+SEBRAE https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/CT%2078.2020%20-%20NGPD%20[manifesto].pdf
+
+SEBRA RN https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/RN/EDTCHAMADA%20PUBLICA%20DE%20ENCOMENDA%20TECNOLOGICA%2001%202023.pdf
+
+SEBRAE BA https://sefaz.salvador.ba.gov.br/desafio#gsc.tab=0
+
+CIEB https://toolkit.plataformaedutec.com.br/files/selecao-aquisicao/edital-encomenda-tecnologica-cieb.pdf
+
+AEB https://www.gov.br/aeb/pt-br/programa-espacial-brasileiro/encomenda-tecnologica-etec/documentos-1/TermodeRefernciaETECdaAEB.pdf
+
+Marinha https://www.marinha.mil.br/sites/default/files/dgepm_edital_manifestacao_de_interesse.pdf
+
+Prefeitura de Maricá https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
+
+Parecer PGE RS http://sid.pge.rs.gov.br/pareceres/pa18930.pdf
+
 
 ## 5 Lei das startups
 
