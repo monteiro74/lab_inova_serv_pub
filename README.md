@@ -27,9 +27,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 <!---
      comentario 0
 
-
      ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
-
 
 
 ```
@@ -37,6 +35,8 @@ exemplo de caixa de texto
 ```
 
 -->
+
+
 
 
 
@@ -94,6 +94,23 @@ Dissertação sobre análise do grau de maturidade em empresas de TI do estado d
 Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2 Laboratório de Inovação
 
 
@@ -143,6 +160,9 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
+
+
+
 ## 3 Contratação de inovação
 
 
@@ -168,6 +188,11 @@ Comparativo:
 | ------------ | ------------- | ----------------------- |
 | Tempo        | 12 meses + 12 | 24 meses + 24           |
 | Valor        | 1,6 milhão    | 8 milhões               |
+
+
+
+
+
 
 
 
@@ -245,6 +270,24 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 FINEP http://www.finep.gov.br/chamadas-publicas/chamadapublica/714
 
 Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -372,6 +415,11 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 
+
+
+
+
+
 <!---
 ## 7 Linguagem simples
 -->
@@ -389,6 +437,9 @@ Petrobras Módulo Open Lab https://www.youtube.com/watch?v=Yv2Z4ghrUro
 Petrobras Módulo Transferência de Tecnologia https://www.youtube.com/watch?v=YWUYFFaLdXU
 
 Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=IxG8RzGfFHk
+
+
+
 
 
 
@@ -446,6 +497,13 @@ https://www.escolavirtual.gov.br/curso/367/
 
 
 
+
+
+
+
+
+
+
 ## 9 Outros materiais
 
 
@@ -459,6 +517,19 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
 Notícias no site do Ministério da Ecônomia sobre o termo "PLATAFORMA DE COMPRAS PÚBLICAS PARA INOVAÇÃO"
 https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMPRAS%20P%C3%9ABLICAS%20PARA%20INOVA%C3%87%C3%83O%20
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
