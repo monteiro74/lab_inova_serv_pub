@@ -506,7 +506,7 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
 
 
-## 12 Siglas
+## 11 Siglas
 
 * CPSI - Contrato Público para Solução Inovadora
 * DPI - Direito de Propriedade Intelectual
