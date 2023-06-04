@@ -199,7 +199,7 @@ PMMG https://www.compras.mg.gov.br/images/stories/ArquivosLicitacoes/SEPLAG/cons
 
 SEBRAE https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/CT%2078.2020%20-%20NGPD%20[manifesto].pdf
 
-SEBRA RN https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/RN/EDTCHAMADA%20PUBLICA%20DE%20ENCOMENDA%20TECNOLOGICA%2001%202023.pdf
+SEBRAE RN https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/RN/EDTCHAMADA%20PUBLICA%20DE%20ENCOMENDA%20TECNOLOGICA%2001%202023.pdf
 
 SEBRAE BA https://sefaz.salvador.ba.gov.br/desafio#gsc.tab=0
 
