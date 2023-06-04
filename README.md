@@ -14,7 +14,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
 [2.1. Definição](#21-Definição) <br>
 [2.1.1. Definições de laboratórios de inovação em governos](#211-Definições-de-laboratórios-de-inovação-em-governos) <br>
-[2.2. Objetivos de laboratórios (públicos)](#22-Objetivos-de-laboratórios-(públicos)) <br>
+[2.2. Objetivos de laboratórios (públicos)](#22-Objetivos-de-laboratórios-públicos) <br>
 [2.3. Base legal](#23-Base-legal) <br>
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
