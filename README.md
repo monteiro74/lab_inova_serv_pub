@@ -34,6 +34,9 @@ exemplo de caixa de texto
 
 
 
+
+
+
 ## 1 Definição de inovação
 
 Definição 1: “uma ideia, prática ou objeto percebido como novo por um indivíduo ou unidade de adoção".
@@ -56,6 +59,12 @@ Fonte: Bekkers, V.; Edelenbos, J.; Steijn, A. Innovation in the public sector: l
 
 Definição 7: There is no widely accepted or common definition of what counts as ‘innovation’.
 Fonte: National Audit Office, 2006b, p. 4.
+
+
+
+
+
+
 
 
 
@@ -104,6 +113,12 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
+
+
+
+
+
+
 ## 3 Contratação de inovação
 
 
@@ -129,6 +144,8 @@ Comparativo:
 | ------------ | ------------- | ----------------------- |
 | Tempo        | 12 meses + 12 | 24 meses + 24           |
 | Valor        | 1,6 milhão    | 8 milhões               |
+
+
 
 
 
@@ -210,10 +227,17 @@ CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Refe
 
 ### 5.1. Definição
 
+
 Definição 1: Uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.  Fonte: [https://sebrae.com.br/sites/PortalSebrae/artigos/o-que-e-uma-startup,6979b2a178c83410VgnVCM1000003b74010aRCRD#:~:text=No%20entanto%2C%20h%C3%A1%20uma%20defini%C3%A7%C3%A3o,em%20condi%C3%A7%C3%B5es%20de%20extrema%20incerteza].
 
 
 Definição 2: Empresas nascentes ou em operação recente voltadas à aplicação de métodos inovadores a modelo de negócios, produtos ou serviços ofertados. Empresas que tendem a operar com bases digitais, com grande potencial econômico, inclusive de atração de investimentos estrangeiros, e predispostas à internacionalização. Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
+
+
+Definição 3: Comentários de diversos autores sobre a interpretação e conceituação de empresas como Startup. Fonte: [https://www.jusbrasil.com.br/artigos/o-que-e-uma-startup-segundo-o-marco-legal-das-startups/1129215001].
+
+
+Definição 4: A startup (termo da língua inglesa sem tradução oficial) termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível. Fonte: [https://pt.wikipedia.org/wiki/Startup].
 
 
 ### 5.2. Requisitas para enquadramento como startup
@@ -223,10 +247,17 @@ Definição 2: Empresas nascentes ou em operação recente voltadas à aplicaç�
 * E que atendam a um dos seguintes requisitos, no mínimo: declaração, em seu ato constitutivo ou alterador, de utilização de modelos de negócios inovadores; ou enquadramento no regime especial Inova Simples.
 
 ```
-Inova Simples: art. 65-A da Lei Complementar nº 123, de 2006
+Regime especial: Inova Simples: art. 65-A da Lei Complementar nº 123, de 2006
 ```
 
 Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
+
+
+
+
+
+
+
 
 
 ## 6 Bases legais, diversas
@@ -290,6 +321,13 @@ URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br
 
 Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação, Fonte: [https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf].
 
+
+
+
+
+
+
+
 ## 7 Linguagem simples
 
 ## 8 Videos
@@ -297,6 +335,13 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 ## 9 Cursos
 
 ## 10 Outros materiais
+
+
+
+
+
+
+
 
 ## 11 Lista de alguns laboratórios de inovação
 
@@ -334,6 +379,15 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 
+
+
+
+
+
+
+
+
+
 ## 12 Siglas
 
 * CPSI - Contrato Público para Solução Inovadora
@@ -345,6 +399,16 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 * NPT - Nível de Prontidão Tecnológica (technology readiness level) 
 * P&D - Pesquisa e Desenvolvimento
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
+
+
+
+
+
+
+
+
+
+
 
 
 
