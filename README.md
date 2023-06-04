@@ -7,6 +7,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 
 [Google](https://google.com){target="_blank"}
 
+[go](http://stackoverflow.com){:target="_blank"}
+
+
+
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
