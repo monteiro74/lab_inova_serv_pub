@@ -357,9 +357,16 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 Recomendados:
 
+Petrobras Módulo Parcerias Tecnológicas https://www.youtube.com/watch?v=gzSFhuKNvMo
+
 Petrobras Encomendas Tecnológicas https://www.youtube.com/watch?v=UBHSBm2DcEI
 
 Petrobras Módulo Open Lab https://www.youtube.com/watch?v=Yv2Z4ghrUro
+
+Petrobras Módulo Transferência de Tecnologia https://www.youtube.com/watch?v=YWUYFFaLdXU
+
+Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=IxG8RzGfFHk
+
 
 
 
