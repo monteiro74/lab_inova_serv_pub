@@ -524,7 +524,8 @@ Aviso: Este material esta recebendo atualizações frequentes.
 
 
 ```
-Se desejar contribuir com novas informações ou atualizações nesta página entre em contato pelo email: laboratorioinovacaogovbr @ gmail.com
+Se desejar contribuir com novas informações ou atualizações nesta página entre em contato pelo email: 
+laboratorioinovacaogovbr @ gmail.com
 ```
 
 
