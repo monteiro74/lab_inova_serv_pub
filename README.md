@@ -10,22 +10,11 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
-     - [1.1 Niveis de maturidade tecnológica](#11-Niveis-de-maturidade-tecnológica) <br>
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
-     - [2.1. Definição](#21-Definição) <br>
-     - [2.1.1. Definições de laboratórios de inovação em governos](#211-Definições-de-laboratórios-de-inovação-em-governos) <br>
-     - [2.2. Objetivos de laboratórios (públicos)](#22-Objetivos-de-laboratórios-públicos) <br>
-     - [2.3. Base legal](#23-Base-legal) <br>
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
-     - [3.1. Definições](#31-Definições) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
-     - [4.1. Definições](#41-Definições) <br>
-     - [4.2. Exemplo, + materiais](#42-Exemplo-materiais) <br>
-     - [4.3. Editais e contratos, exemplos](#43-Editais-e-contratos-exemplos) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
-     - [5.1. Definições](#51-Definições) <br>
 [6 Bases legais](#6-bases-legais-diversas) <br>
-     - [6.1. Diferenças entre tipos de compras](#61-Diferenças-entre-tipos-de-compras) <br>
 [7 Videos](#7-Videos) <br>
 [8 Cursos](#8-Cursos) <br>
 [9 Outros materiais](#9-Outros-materiais) <br>
@@ -102,7 +91,7 @@ Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://re
 ## 2 Laboratório de Inovação
 
 
-### 2.1. Definição
+### 2.1. Definições
 
 Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão descritos como versões de várias organizações existentes: como híbridas de grupo de pensadores (think tanks), laboratórios digitais de pesquisa e desenvolvimento (P&D), empreendimentos sociais e organizações beneficentes, Fonte: [https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf].
 
