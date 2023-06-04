@@ -1,10 +1,13 @@
 # lab_inova_serv_pub
 ## Sobre os Laboratórios de Inovação no Serviço Público (LISP).
 
-Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público.
+Uma compilação de material (curadoria de conteúdo digital) sobre compras públicas de inovação/encomendas técnicas, laboratório de inovação, bases legais, bem como vídeos e cursos sobre a temática.
 
 ###### Primeira postagem em: maio/2023. Última atualização em: jun/2023.
 
+```
+Aviso: Este material esta recebendo atualizações periódicas.
+```
 
 ## Conteúdo:
 
