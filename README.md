@@ -178,7 +178,7 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 4. Exemplode constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
 
 
-### 4.3. Edital exemplo:
+### 4.3. Editais, exemplos
 
 TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/16%20-%20Edital%20PUBLICADO.pdf
 
@@ -320,4 +320,6 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 [3] Livro: Compras públicas para inovação no brasil: novas possibilidades legais, Capítulo 12 - Contrato público de soluções inovadoras: racionalidade fundamental e posicionamento no mix de políticas de inovação que atuam pelo lado da demanda. https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf
 
 [4] Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação. https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf
+
+[5] Encomendas tecnológicas no brasil: guia geral de boas práticas. https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf
 
