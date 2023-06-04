@@ -320,6 +320,7 @@ URL: https://atos.cnj.jus.br/atos/detalhar/2279<br>
 
 
 * Título: Lei Nº 13.243, de 11 de Janeiro DE 2016. <br>
+Conhecida como: Marco Legal de Ciência, Tecnologia e Inovação. <br>
 Descrição: Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004. <br>
 Ano: 2016. <br>
 URL: https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13243.htm.<br>
@@ -345,12 +346,14 @@ URL: https://atos.cnj.jus.br/atos/detalhar/3365 <br>
 
 
 * Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
+Conhecida como: Marco Legal das Startups. <br>
 Descrição: Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. <br>
 Ano: 2021. <br> 
 URL: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm. <br>
 
 
 * Título: Lei de Licitações e Contratos Administrativos.<br>
+Conhecida como: Nova lei de licitações. <br>
 Descrição: Lei de Licitações e Contratos Administrativos.<br>
 Ano: 2021.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
