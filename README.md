@@ -3,12 +3,9 @@
 
 Uma breve compilação de material (curadoria de conteúdo digital) sobre compras públicas de inovação/encomendas técnicas, laboratório de inovação, bases legais, bem como vídeos e cursos sobre a temática relacionada a esse tipo de contratação e sua operacionalização.
 
+O objetivo desta página é centralizar informações que auxiliem no processo de contrações de inovação.
+
 ###### Última atualização em: jun/2023.
-
-
-
-
-
 
 
 ## Conteúdo:
