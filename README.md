@@ -529,6 +529,10 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
 [6] Regulamento interno de licitações e contratos com startups. https://www.celepar.pr.gov.br/sites/celepar/arquivos_restritos/files/documento/2022-08/regulamento_interno_de_licitacoes_e_contratos_com_startups.pdf
 
+[7] Modelo de avaliação da maturidade do processo de inovação como estratégia competitiva empresarial. https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y
+
+[8] Gestão da inovação: análise do grau de maturidade em empresas de ti do estado de minas gerais. https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf
+
 
 ```
 Aviso: Este material esta recebendo atualizações frequentes.
