@@ -223,6 +223,9 @@ CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Refe
 
 
 
+
+
+
 ## 5 Lei das startups
 
 ### 5.1. Definições
@@ -251,6 +254,12 @@ Regime especial: Inova Simples: art. 65-A da Lei Complementar nº 123, de 2006
 ```
 
 Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
+
+
+
+
+
+
 
 
 
@@ -340,22 +349,31 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 
+<!---
 ## 7 Linguagem simples
+-->
 
-## 8 Videos
+## 7 Videos
 
-## 9 Cursos
-
-## 10 Outros materiais
-
+Recomendados
 
 
-
+Petrobras Encomendas Tecnológicas https://www.youtube.com/watch?v=UBHSBm2DcEI
 
 
 
+## 8 Cursos
 
-## 11 Lista de alguns laboratórios de inovação
+## 9 Outros materiais
+
+
+
+
+
+
+
+
+## 10 Lista de alguns laboratórios de inovação
 
 | Laboratório   | Localização   | Instituição | URL |
 | ------------- | ------------- | ----------- | --- |
