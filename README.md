@@ -25,6 +25,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 [5 Lei das startups](#5-Lei-das-startups) <br>
 [5.1. Definições](#51-Definições) <br>
 [6 Bases legais](#6-bases-legais-diversas) <br>
+[6.1. Diferenças entre tipos de compras](#61-Diferenças-entre-tipos-de-compras) <br>
 [7 Videos](#7-Videos) <br>
 [8 Cursos](#8-Cursos) <br>
 [9 Outros materiais](#9-Outros-materiais) <br>
