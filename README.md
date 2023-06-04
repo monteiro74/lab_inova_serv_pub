@@ -99,7 +99,7 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 LISP: "Laboratórios de inovação no setor público são ambientes colaborativos que buscam fomentar a criatividade, a experimentação e a inovação, por meio da adoção de metodologias ativas e da cocriação, na resolução de problemas", [2].
 
-### 2.2. Objetivos de laboratórios:
+### 2.2. Objetivos de laboratórios (públicos):
 
 1. Fomentar um ambiente inovador na administração pública <br>
 2. Desenvolver inovações específicas <br>
@@ -175,8 +175,8 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 1. Cartilha do TCU sobre ETEC:  https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm
 2. ETEC de Instrução assistida por Inteligência Artificial https://portal.tcu.gov.br/licitacoes-e-contratos-do-tcu/
 3. Jornada para contratação: https://inovacpin.org/
-4. Exemplode constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
-
+4. Exemplo de constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
+5. ETEC guia geral de boas práticas: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf.
 
 ### 4.3. Editais, exemplos
 
@@ -192,7 +192,7 @@ Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
 
 
 
-## 6 Bases legais
+## 6 Bases legais, diversas
 
 * Título: Lei Nº 8.666, de 21 de Junho de 1993.<br>
 Descrição: Institui normas para licitações e contratos da Administração Pública. <br>
