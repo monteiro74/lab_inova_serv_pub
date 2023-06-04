@@ -455,7 +455,10 @@ Garagem BNDES https://garagem.bndes.gov.br/#
 
 Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
+### 9.1. Notícias
 
+Notícias no site do Ministério da Ecônomia sobre o termo "PLATAFORMA DE COMPRAS PÚBLICAS PARA INOVAÇÃO"
+https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMPRAS%20P%C3%9ABLICAS%20PARA%20INOVA%C3%87%C3%83O%20
 
 
 
