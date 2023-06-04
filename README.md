@@ -246,6 +246,10 @@ Ano: 2021.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
 
 
+### 6.1. Diferenças entre tipos de compras
+
+Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação, Fonte: [https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf].
+
 ## 7 Linguagem simples
 
 ## 8 Videos
@@ -312,4 +316,5 @@ URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br
 
 [3] Livro: Compras públicas para inovação no brasil: novas possibilidades legais, Capítulo 12 - Contrato público de soluções inovadoras: racionalidade fundamental e posicionamento no mix de políticas de inovação que atuam pelo lado da demanda. https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf
 
+[4] Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação. https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf
 
