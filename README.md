@@ -17,6 +17,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 [2.2. Objetivos de laboratórios (públicos)](#22-Objetivos-de-laboratórios-públicos) <br>
 [2.3. Base legal](#23-Base-legal) <br>
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
+[3.1. Definições](#31-Definições) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
 [6 Bases legais](#6-bases-legais-diversas) <br>
@@ -145,7 +146,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 ## 3 Contratação de inovação
 
 
-### 3.1. Definição
+### 3.1. Definições
 
 O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
 
