@@ -65,7 +65,7 @@ Fonte: National Audit Office, 2006b, p. 4.
 
 ### 1.1 Niveis de maturidade tecnológica
 
-Os níveis auxiliam na avaliam das Startups e suas propostas. Os níveis de Maturidade Tecnológica (TRL/MRL) são 9:
+Os níveis auxiliação das Startups e suas propostas. Os níveis de Maturidade Tecnológica (TRL/MRL) são 9:
 
 * TRL/MRL 1:  Ideia da pesquisa que está sendo iniciada e esses primeiros indícios de viabilidade estão sendo traduzidos em pesquisa e desenvolvimento futuros.
 * TRL/MRL 2: Os princípios básicos foram definidos e há resultados com aplicações práticas que apontam para a confirmação da ideia inicial.
@@ -80,9 +80,11 @@ Os níveis auxiliam na avaliam das Startups e suas propostas. Os níveis de Matu
 Fonte: [https://portais.univasf.edu.br/nit/portfolio-tecnologico/nivel-de-maturidade-tecnologica].
 
 
-Resumidamente os níveis são uma trilha do mais básico até o mais completo, que podem ser vistos aqui: [https://via.ufsc.br/nivel-de-maturidade-tecnologica-por-que-avaliar/] e ó original em [http://www.artemisinnovation.com/images/TRL_White_Paper_2004-Edited.pdf].
+Resumidamente os níveis são uma trilha do mais básico até o mais completo, que podem ser vistos aqui: [https://via.ufsc.br/nivel-de-maturidade-tecnologica-por-que-avaliar/], original em [http://www.artemisinnovation.com/images/TRL_White_Paper_2004-Edited.pdf].
 
-
+```
+Trabalhos acadêmicos: Dissertação sobre análise do grau de maturidade em empresas de TI do estado de Minas Gerais, Fonte [https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf]. Tese de doutorado: Modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
+```
 
 ## 2 Laboratório de Inovação
 
