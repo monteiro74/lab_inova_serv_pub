@@ -85,7 +85,7 @@ Resumidamente os níveis são uma trilha do mais básico até o mais completo, q
 ```
 Trabalhos acadêmicos: 
 Dissertação sobre análise do grau de maturidade em empresas de TI do estado de Minas Gerais, Fonte [https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf]. 
-Tese de doutorado: Modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
+Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
 ```
 
 ## 2 Laboratório de Inovação
