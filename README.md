@@ -12,6 +12,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
 [1.1 Niveis de maturidade tecnológica](#11-Niveis-de-maturidade-tecnológica) <br>
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
+[2.1. Definição](#21-Definição) <br>
+[2.1.1. Definições de laboratórios de inovação em governos](#211-Definições-de-laboratórios-de-inovação-em-governos) <br>
+[2.2. Objetivos de laboratórios (públicos)](#22-Objetivos-de-laboratórios-(públicos)) <br>
+[2.3. Base legal](#23-Base-legal) <br>
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
@@ -92,7 +96,7 @@ Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://re
 ## 2 Laboratório de Inovação
 
 
-### 2.1. Definição:
+### 2.1. Definição
 
 Os i-labs (do inglês innovation labs (laboratory)), principalmente, estão descritos como versões de várias organizações existentes: como híbridas de grupo de pensadores (think tanks), laboratórios digitais de pesquisa e desenvolvimento (P&D), empreendimentos sociais e organizações beneficentes, Fonte: [https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf].
 
@@ -100,7 +104,7 @@ Os laboratórios de inovação são estruturas que fazem parte da administraçã
 
 Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
-#### 2.1.1. Definições de laboratórios de inovação em governos:
+#### 2.1.1. Definições de laboratórios de inovação em governos
 
 “Os laboratórios de inovação do governo são lugares dinâmicos que estimulam a criatividade para o design de soluções para políticas públicas. Esses laboratórios geralmente possuem equipes multissetoriais e abordam as questões de forma colaborativa.” (Acevedo, Dassen, 2016, p. 19), Fonte: BID.
 
@@ -110,7 +114,7 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 
 LISP: "Laboratórios de inovação no setor público são ambientes colaborativos que buscam fomentar a criatividade, a experimentação e a inovação, por meio da adoção de metodologias ativas e da cocriação, na resolução de problemas", [2].
 
-### 2.2. Objetivos de laboratórios (públicos):
+### 2.2. Objetivos de laboratórios (públicos)
 
 1. Fomentar um ambiente inovador na administração pública <br>
 2. Desenvolver inovações específicas <br>
