@@ -3,7 +3,7 @@
 
 Uma breve compilação de material (curadoria de conteúdo digital) sobre compras públicas de inovação/encomendas técnicas, laboratório de inovação, bases legais, bem como vídeos e cursos sobre a temática relacionada a esse tipo de contratação e sua operacionalização.
 
-###### Primeira postagem em: maio/2023. Última atualização em: jun/2023.
+###### Última atualização em: jun/2023.
 
 
 
@@ -520,6 +520,8 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
 ```
 Aviso: Este material esta recebendo atualizações frequentes.
+Primeira postagem em: maio/2023. 
+Última atualização em: jun/2023.
 ```
 
 
