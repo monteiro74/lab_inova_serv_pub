@@ -377,17 +377,20 @@ Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=I
 
 Cursos na escola virtual ENAP:
 
+Contratações de Encomendas Tecnológicas
+https://www.escolavirtual.gov.br/curso/609/
+
 Inovação Social para o Aperfeiçoamento de Políticas Públicas
 https://www.escolavirtual.gov.br/curso/234
 
 Métodos e Ferramentas para Inovação em Políticas Públicas
 https://www.escolavirtual.gov.br/curso/664
 
+Celebração de Parcerias no Setor Público
+https://www.escolavirtual.gov.br/curso/427/
+
 Nova Lei de Licitações: Gestão Contratual
 https://www.escolavirtual.gov.br/curso/440
-
-Contratações de Encomendas Tecnológicas
-https://www.escolavirtual.gov.br/curso/609/
 
 Princípios do Design Thinking e Inovação em Governo
 https://www.escolavirtual.gov.br/curso/326/
@@ -410,8 +413,7 @@ https://suap.enap.gov.br/vitrine/curso/1589/?area=9
 Novas Tecnologias para a Transformação Digital
 https://www.escolavirtual.gov.br/curso/367/
 
-Celebração de Parcerias no Setor Público
-https://www.escolavirtual.gov.br/curso/427/
+
 
 
 
