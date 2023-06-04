@@ -169,6 +169,12 @@ Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
 
 Prefeitura de Niterói http://www.prosustentavel.niteroi.rj.gov.br/wp-content/uploads/2020/10/TR_ETEC_rev07.pdf
 
+Prefeitura de Recife https://www.emprel.gov.br/sites/default/files/edital_-_1o_ciclo_de_inovacao_aberta_prefeitura_do_recife.pdf
+
+Prefeitura de Maricá https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
+
+Prefeitura de Pato Branco-PR https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+
 Fiocruz e Astrazeneca, termo de contrato https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
 
 PMMG https://www.compras.mg.gov.br/images/stories/ArquivosLicitacoes/SEPLAG/consultaspublicas/edital-consulta-publica-sei-1250.01.0003777-2022-09.pdf
@@ -185,12 +191,13 @@ AEB https://www.gov.br/aeb/pt-br/programa-espacial-brasileiro/encomenda-tecnolog
 
 Marinha https://www.marinha.mil.br/sites/default/files/dgepm_edital_manifestacao_de_interesse.pdf
 
-Prefeitura de Maricá https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
-
 Parecer PGE RS http://sid.pge.rs.gov.br/pareceres/pa18930.pdf
 
-Prefeitura de Pato Branco-PR https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+PRODEMGE MG http://www.licitacoes.prodemge.gov.br/anexos/2023_001_CH_1_0601202395117.PDF
 
+TJMG https://www.tjmg.jus.br/data/files/34/D3/36/B7/D3F768107AC592688908CCA8/Edital%20interativo%20-%20Foro%20capital_TJMG%20FINAL.pdf
+
+CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Referencia.pdf
 
 
 ## 5 Lei das startups
@@ -331,4 +338,7 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 [4] Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação. https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf
 
 [5] Encomendas tecnológicas no brasil: guia geral de boas práticas. https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf
+
+[6] Regulamento interno de licitações e contratos com startups. https://www.celepar.pr.gov.br/sites/celepar/arquivos_restritos/files/documento/2022-08/regulamento_interno_de_licitacoes_e_contratos_com_startups.pdf
+
 
