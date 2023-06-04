@@ -13,12 +13,11 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
 [6 Bases legais](#6-bases-legais-diversas) <br>
-[7 Liguagem simples](#7-Linguagem-simples) <br>
-[8 Videos](#8-Videos) <br>
-[9 Cursos](#9-Cursos) <br>
-[10 Outros materiais](#10-Outros-materiais) <br>
-[11 Lista de alguns laboratórios de inovação](#11-Lista-de-alguns-laboratórios-de-inovação) <br>
-[12 Siglas](#12-Siglas) <br>
+[7 Videos](#7-Videos) <br>
+[8 Cursos](#8-Cursos) <br>
+[9 Outros materiais](#9-Outros-materiais) <br>
+[10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação) <br>
+[11 Siglas](#11-Siglas) <br>
 [Referências](#Referências) <br>
 
 
