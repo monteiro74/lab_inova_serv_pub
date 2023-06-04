@@ -198,43 +198,43 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 
 ## 6 Bases legais
 
-Título: Lei Nº 8.666, de 21 de Junho de 1993.<br>
+* Título: Lei Nº 8.666, de 21 de Junho de 1993.<br>
 Descrição: Institui normas para licitações e contratos da Administração Pública. <br>
 Ano: 1993. <br>
 URL: https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm. <br>
 
 
-Título: Lei de Inovação Lei no 10.973/2004. <br>
+* Título: Lei de Inovação Lei no 10.973/2004. <br>
 Descrição: Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. <br>
 Ano: 2004.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm.<br>
 
 
-Título: Emenda Constitucional (EC) no 85, de 2015.<br>
+* Título: Emenda Constitucional (EC) no 85, de 2015.<br>
 Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.<br>
 Ano: 2015.<br>
 URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.<br>
 
 
-Título: Lei Nº 13.243, de 11 de Janeiro DE 2016. <br>
+* Título: Lei Nº 13.243, de 11 de Janeiro DE 2016. <br>
 Descrição: Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004. <br>
 Ano: 2016. <br>
 URL: https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13243.htm.<br>
 
 
-Título: Decreto regulamentador Nº 9.283/2018. <br>
+* Título: Decreto regulamentador Nº 9.283/2018. <br>
 Descrição: Regulamenta a Lei de Inovação para estabelecer medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, com vistas à capacitação tecnológica, ao alcance da autonomia tecnológica e ao desenvolvimento do sistema produtivo nacional e regional. <br>
 Ano: 2018. <br>
 URL: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9283.htm. <br>
 
 
-Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
+* Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
 Descrição: Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. <br>
 Ano: 2021. <br> 
 URL: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm. <br>
 
 
-Título: Lei de Licitações e Contratos Administrativos.<br>
+* Título: Lei de Licitações e Contratos Administrativos.<br>
 Descrição: Lei de Licitações e Contratos Administrativos.<br>
 Ano: 2021.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
