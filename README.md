@@ -19,7 +19,11 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
 [3.1. Definições](#31-Definições) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
+[4.1. Definições](#41-Definições) <br>
+[4.2. Exemplo, + materiais](#42-Exemplo-materiais) <br>
+[4.3. Editais e contratos, exemplos](#43-Editais-e-contratos-exemplos) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
+[5.1. Definições](#51-Definições) <br>
 [6 Bases legais](#6-bases-legais-diversas) <br>
 [7 Videos](#7-Videos) <br>
 [8 Cursos](#8-Cursos) <br>
