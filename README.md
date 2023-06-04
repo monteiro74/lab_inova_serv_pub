@@ -10,7 +10,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
-[1.1 Niveis de maturidade tecnológica](#1.1-Niveis-de-maturidade-tecnológica) <br>
+[1.1 Niveis de maturidade tecnológica](#11-Niveis-de-maturidade-tecnológica) <br>
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
