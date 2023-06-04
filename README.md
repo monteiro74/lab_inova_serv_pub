@@ -63,12 +63,24 @@ Fonte: National Audit Office, 2006b, p. 4.
 
 
 
+### 1.1 Niveis de maturidade tecnológica
+
+Os níveis auxiliam na avaliam das Startups e suas propostas. Os níveis de Maturidade Tecnológica (TRL/MRL) são 9:
+
+* TRL/MRL 1:  Ideia da pesquisa que está sendo iniciada e esses primeiros indícios de viabilidade estão sendo traduzidos em pesquisa e desenvolvimento futuros.
+* TRL/MRL 2: Os princípios básicos foram definidos e há resultados com aplicações práticas que apontam para a confirmação da ideia inicial.
+* TRL/MRL 3: Em geral, estudos analíticos e/ou laboratoriais são necessários nesse nível para ver se uma tecnologia é viável e pronta para prosseguir para o processo de desenvolvimento. Nesse caso, muitas vezes, é construído um modelo de prova de conceito.
+* TRL/MRL 4: Coloca-se em prática a prova de conceito, que consiste em sua aplicação em ambiente similar ao real, podendo constituir testes em escala de laboratório.
+* TRL/MRL 5: A tecnologia deve passar por testes mais rigorosos do que a tecnologia que está apenas na TRL 4, ou seja, validação em ambiente relevante de componentes ou arranjos experimentais, com configurações físicas finais. Capacidade de produzir protótipo do componente do produto.
+* TRL/MRL 6: A tecnologia constitui um protótipo totalmente funcional ou modelo representacional, sendo demonstrado em ambiente operacional (ambiente relevante no caso das principais tecnologias facilitadoras).
+* TRL/MRL 7: O protótipo está demonstrado e validado em ambiente operacional (ambiente relevante no caso das principais tecnologias facilitadoras).
+* TRL/MRL 8: A tecnologia foi testada e qualificada para ambiente real, estando pronta para ser implementada em um sistema ou tecnologia já existente.
+* TRL/MRL 9: A tecnologia está comprovada em ambiente operacional (fabricação competitiva no caso das principais tecnologias facilitadoras), uma vez que já foi testada, validada e comprovada em todas as condições, com seu uso em todo seu alcance e quantidade. Produção estabelecida.
+
+Fonte: [https://portais.univasf.edu.br/nit/portfolio-tecnologico/nivel-de-maturidade-tecnologica].
 
 
-
-
-
-
+Resumidamente os níveis são uma trilha do mais básico até o mais completo, que podem ser vistos aqui: [https://via.ufsc.br/nivel-de-maturidade-tecnologica-por-que-avaliar/] e ó original em [http://www.artemisinnovation.com/images/TRL_White_Paper_2004-Edited.pdf].
 
 
 
@@ -487,14 +499,10 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
 * MVP -  Minimum Viable Product (produto mínimo viável)
-* NPT - Nível de Prontidão Tecnológica (technology readiness level) 
+* NPT - Nível de Prontidão Tecnológica (technology readiness level) também conhecido como NMT
+* NMT -  Nível de Maturidade Tecnológica
 * P&D - Pesquisa e Desenvolvimento
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
-
-
-
-
-
 
 
 
