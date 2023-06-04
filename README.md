@@ -156,7 +156,7 @@ Comparativo:
 
 ## 4 Encomendas técnicas
 
-### 4.1. Definição
+### 4.1. Definições
 
 
 Definições 1: A Encomenda Tecnológica (ETEC) é um dos instrumentos de estímulo à inovação instituídos pela Lei 10.973/2004 (Lei de Inovação), alterada pela Lei 13.243/2016 e regulamentada pelo Decreto 9.283/2018. A ETEC também é prevista como um dos casos de dispensa de licitação, conforme art. 24, inciso XXXI, da Lei 8.666/1993, que se aplica ao presente instrumento subsidiariamente, visto que a Lei de Inovação prevê regras específicas para esse tipo de contratação.
@@ -225,7 +225,7 @@ CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Refe
 
 ## 5 Lei das startups
 
-### 5.1. Definição
+### 5.1. Definições
 
 
 Definição 1: Uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.  Fonte: [https://sebrae.com.br/sites/PortalSebrae/artigos/o-que-e-uma-startup,6979b2a178c83410VgnVCM1000003b74010aRCRD#:~:text=No%20entanto%2C%20h%C3%A1%20uma%20defini%C3%A7%C3%A3o,em%20condi%C3%A7%C3%B5es%20de%20extrema%20incerteza].
@@ -240,7 +240,7 @@ Definição 3: Comentários de diversos autores sobre a interpretação e concei
 Definição 4: A startup (termo da língua inglesa sem tradução oficial) termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível. Fonte: [https://pt.wikipedia.org/wiki/Startup].
 
 
-### 5.2. Requisitas para enquadramento como startup
+### 5.2. Requisitos para enquadramento como startup
 
 * Ter faturamento bruto anual de até R$ 16 milhões no ano-calendário anterior ou de R$ 1,3 milhão multiplicado pelo número de meses de atividade no ano-calendário anterior, quando inferior a um ano;
 * Com até seis anos de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ);
@@ -274,15 +274,23 @@ Ano: 2004.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm.<br>
 
 
+* Título: Lei Complementar Nº 123, de 14 de Dezembro de 2006. <br>
+Descrição: Criado o Inova Simples, regime especial simplificado que concede às iniciativas empresariais de caráter incremental ou disruptivo. <br>
+Ano: 2006. <br>
+URL: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm. <br>
+
+
 * Título: Emenda Constitucional (EC) no 85, de 2015.<br>
 Descrição: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação.<br>
 Ano: 2015.<br>
 URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.<br>
 
+
 * Título: Resolução CNJ (atos do CNJ) <br>
 Descrição: Resolução CNJ, Nº 221 de 10/05/2016<br>
 Ano: 2016 <br>
 URL: https://atos.cnj.jus.br/atos/detalhar/2279<br>
+
 
 * Título: Lei Nº 13.243, de 11 de Janeiro DE 2016. <br>
 Descrição: Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004. <br>
@@ -290,20 +298,24 @@ Ano: 2016. <br>
 URL: https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13243.htm.<br>
 
 
+
 * Título: Decreto regulamentador Nº 9.283/2018. <br>
 Descrição: Regulamenta a Lei de Inovação para estabelecer medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, com vistas à capacitação tecnológica, ao alcance da autonomia tecnológica e ao desenvolvimento do sistema produtivo nacional e regional. <br>
 Ano: 2018. <br>
 URL: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9283.htm. <br>
+
 
 * Título: Resolução Nº 296 de 19/09/2019 (atos do CNJ) <br>
 Descrição: Cria e revoga Comissões Permanentes no âmbito do Conselho Nacional de Justiça. Art. 4º À Comissão Permanente de Tecnologia da Informação e Inovação compete....<br>
 Ano: 2019 <br>
 URL: https://atos.cnj.jus.br/atos/detalhar/3038<br>
 
+
 * Título: Resolução Nº 325 de 29/06/2020 (atos do CNJ)  <br>
 Descrição: Dispõe sobre a Estratégia Nacional do Poder Judiciário 2021-2026 e dá outras providências. <br>
 Ano: 2020 <br>
 URL: https://atos.cnj.jus.br/atos/detalhar/3365 <br>
+
 
 * Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
 Descrição: Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. <br>
