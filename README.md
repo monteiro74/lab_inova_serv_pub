@@ -5,9 +5,7 @@ Uma compilação de material (curadoria de conteúdo digital) sobre compras púb
 
 ###### Primeira postagem em: maio/2023. Última atualização em: jun/2023.
 
-```
-Aviso: Este material esta recebendo atualizações periódicas.
-```
+
 
 ## Conteúdo:
 
@@ -518,6 +516,11 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 [5] Encomendas tecnológicas no brasil: guia geral de boas práticas. https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf
 
 [6] Regulamento interno de licitações e contratos com startups. https://www.celepar.pr.gov.br/sites/celepar/arquivos_restritos/files/documento/2022-08/regulamento_interno_de_licitacoes_e_contratos_com_startups.pdf
+
+
+```
+Aviso: Este material esta recebendo atualizações frequentes.
+```
 
 
 ```
