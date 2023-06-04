@@ -524,7 +524,12 @@ Aviso: Este material esta recebendo atualizações frequentes.
 
 
 ```
-Autor: Prof. Dr. Monteiro.
+Se desejar contribuir com novas informações ou atualizações nesta página entre em contato pelo email: laboratorioinovacaogovbr @ gmail.com
+```
+
+
+
+```
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
