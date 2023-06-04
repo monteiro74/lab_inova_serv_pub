@@ -183,9 +183,15 @@ Definição 2: é a compra direta de serviços de Pesquisa e Desenvolvimento par
 Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é uma compra pública voltada para encontrar solução para determinado problema por meio de desenvolvimento tecnológico. Ou, formalmente, as Etecs são tipos especiais de compras públicas diretas voltadas a situações muito específicas nas quais exista risco tecnológico. [RAUEN, A. T.; BARBOSA, C. M. M. (Org.). Encomendas tecnológicas no Brasil: guia geral de boas práticas. Brasília: Ipea, 2019.]
 
 
+### 4.2. Exemplo, + materiais
+
+1. Cartilha do TCU sobre ETEC:  https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm
+2. ETEC de Instrução assistida por Inteligência Artificial https://portal.tcu.gov.br/licitacoes-e-contratos-do-tcu/
 
 
+### 4.3. Edital exemplo:
 
+TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/16%20-%20Edital%20PUBLICADO.pdf
 
 
 ## 5 Lei das startups
