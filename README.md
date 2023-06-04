@@ -215,11 +215,11 @@ TJMG https://www.tjmg.jus.br/data/files/34/D3/36/B7/D3F768107AC592688908CCA8/Edi
 
 CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Referencia.pdf
 
+Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
+FINEP http://www.finep.gov.br/chamadas-publicas/chamadapublica/714
 
-
-
-
+Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 
 
@@ -418,7 +418,11 @@ https://www.escolavirtual.gov.br/curso/427/
 ## 9 Outros materiais
 
 
+Hub de inovação da Petrobras https://tecnologia.petrobras.com.br/conexoes-inovacao
 
+Garagem BNDES https://garagem.bndes.gov.br/#
+
+Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
 
 
