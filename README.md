@@ -9,7 +9,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre compra
 
 [go](http://stackoverflow.com){:target="_blank"}
 
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ## Conteúdo:
 
