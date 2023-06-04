@@ -189,6 +189,9 @@ Prefeitura de Maricá https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023
 
 Parecer PGE RS http://sid.pge.rs.gov.br/pareceres/pa18930.pdf
 
+Prefeitura de Pato Branco-PR https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+
+
 
 ## 5 Lei das startups
 
