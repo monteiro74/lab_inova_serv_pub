@@ -345,10 +345,6 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 
-
-
-
-
 <!---
 ## 7 Linguagem simples
 -->
@@ -370,7 +366,55 @@ Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=I
 
 
 
+
+
+
+
+
+
 ## 8 Cursos
+
+
+Inovação Social para o Aperfeiçoamento de Políticas Públicas
+https://www.escolavirtual.gov.br/curso/234
+
+Métodos e Ferramentas para Inovação em Políticas Públicas
+https://www.escolavirtual.gov.br/curso/664
+
+Nova Lei de Licitações: Gestão Contratual
+https://www.escolavirtual.gov.br/curso/440
+
+Contratações de Encomendas Tecnológicas
+https://www.escolavirtual.gov.br/curso/609/
+
+Princípios do Design Thinking e Inovação em Governo
+https://www.escolavirtual.gov.br/curso/326/
+
+Transformação Digital no Serviço Público
+https://www.escolavirtual.gov.br/curso/419/
+
+UX Writing para Transformação Digital
+https://www.escolavirtual.gov.br/curso/813/
+
+Arquitetura de Soluções para Transformação Digital
+https://www.escolavirtual.gov.br/curso/799/
+
+Design de Aplicativos na Transformação Digital
+https://www.escolavirtual.gov.br/curso/803/
+
+Design Sprint
+https://suap.enap.gov.br/vitrine/curso/1589/?area=9
+
+Novas Tecnologias para a Transformação Digital
+https://www.escolavirtual.gov.br/curso/367/
+
+Celebração de Parcerias no Setor Público
+https://www.escolavirtual.gov.br/curso/427/
+
+
+
+
+
 
 ## 9 Outros materiais
 
