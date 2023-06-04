@@ -355,10 +355,11 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 ## 7 Videos
 
-Recomendados
-
+Recomendados:
 
 Petrobras Encomendas Tecnológicas https://www.youtube.com/watch?v=UBHSBm2DcEI
+
+Petrobras Módulo Open Lab https://www.youtube.com/watch?v=Yv2Z4ghrUro
 
 
 
