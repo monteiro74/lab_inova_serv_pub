@@ -148,9 +148,9 @@ A ETEC pode ser adotada em situações de falha de mercado e alto nível de ince
 
 Fonte: [https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm]
 
-Definição 2: é a compra direta de serviços de Pesquisa e Desenvolvimento para a obtenção de uma solução determinada, existindo risco tecnológico. [https://portal.tcu.gov.br/licitacoes-e-contratos-do-tcu/licitacoes/etec/#:~:text=Como%20instrumento%20da%20pol%C3%ADtica%20de,solu%C3%A7%C3%A3o%20determinada%2C%20existindo%20risco%20tecnol%C3%B3gico.]
+Definição 2: é a compra direta de serviços de Pesquisa e Desenvolvimento para a obtenção de uma solução determinada, existindo risco tecnológico. Fonte: [https://portal.tcu.gov.br/licitacoes-e-contratos-do-tcu/licitacoes/etec/#:~:text=Como%20instrumento%20da%20pol%C3%ADtica%20de,solu%C3%A7%C3%A3o%20determinada%2C%20existindo%20risco%20tecnol%C3%B3gico.]
 
-Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é uma compra pública voltada para encontrar solução para determinado problema por meio de desenvolvimento tecnológico. Ou, formalmente, as Etecs são tipos especiais de compras públicas diretas voltadas a situações muito específicas nas quais exista risco tecnológico. [RAUEN, A. T.; BARBOSA, C. M. M. (Org.). Encomendas tecnológicas no Brasil: guia geral de boas práticas. Brasília: Ipea, 2019.]
+Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é uma compra pública voltada para encontrar solução para determinado problema por meio de desenvolvimento tecnológico. Ou, formalmente, as Etecs são tipos especiais de compras públicas diretas voltadas a situações muito específicas nas quais exista risco tecnológico. Fonte: [RAUEN, A. T.; BARBOSA, C. M. M. (Org.). Encomendas tecnológicas no Brasil: guia geral de boas práticas. Brasília: Ipea, 2019.]
 
 
 ### 4.2. Exemplo, + materiais
@@ -210,8 +210,23 @@ CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Refe
 
 ### 5.1. Definição
 
+Definição 1: Uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.  Fonte: [https://sebrae.com.br/sites/PortalSebrae/artigos/o-que-e-uma-startup,6979b2a178c83410VgnVCM1000003b74010aRCRD#:~:text=No%20entanto%2C%20h%C3%A1%20uma%20defini%C3%A7%C3%A3o,em%20condi%C3%A7%C3%B5es%20de%20extrema%20incerteza].
 
 
+Definição 2: Empresas nascentes ou em operação recente voltadas à aplicação de métodos inovadores a modelo de negócios, produtos ou serviços ofertados. Empresas que tendem a operar com bases digitais, com grande potencial econômico, inclusive de atração de investimentos estrangeiros, e predispostas à internacionalização. Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
+
+
+### 5.2. Requisitas para enquadramento como startup
+
+* Ter faturamento bruto anual de até R$ 16 milhões no ano-calendário anterior ou de R$ 1,3 milhão multiplicado pelo número de meses de atividade no ano-calendário anterior, quando inferior a um ano;
+* Com até seis anos de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ);
+* E que atendam a um dos seguintes requisitos, no mínimo: declaração, em seu ato constitutivo ou alterador, de utilização de modelos de negócios inovadores; ou enquadramento no regime especial Inova Simples.
+
+```
+Inova Simples: art. 65-A da Lei Complementar nº 123, de 2006
+```
+
+Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
 
 
 ## 6 Bases legais, diversas
