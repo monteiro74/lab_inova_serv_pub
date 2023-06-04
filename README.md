@@ -12,7 +12,7 @@ Uma compilação de material (curadoria de conteúdo digital) para suporte a um 
 [3 Contratação de inovação](#3-Contratação-de-inovação) <br>
 [4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
 [5 Lei das startups](#5-Lei-das-startups) <br>
-[6 Bases legais](#6-bases-legais) <br>
+[6 Bases legais](#6-bases-legais-diversas) <br>
 [7 Liguagem simples](#7-Linguagem-simples) <br>
 [8 Videos](#8-Videos) <br>
 [9 Cursos](#9-Cursos) <br>
@@ -198,6 +198,12 @@ PRODEMGE MG http://www.licitacoes.prodemge.gov.br/anexos/2023_001_CH_1_060120239
 TJMG https://www.tjmg.jus.br/data/files/34/D3/36/B7/D3F768107AC592688908CCA8/Edital%20interativo%20-%20Foro%20capital_TJMG%20FINAL.pdf
 
 CAU/BR https://www.caubr.gov.br/wp-content/uploads/2022/01/Anexo-I-Termo-de-Referencia.pdf
+
+
+
+
+
+
 
 
 ## 5 Lei das startups
