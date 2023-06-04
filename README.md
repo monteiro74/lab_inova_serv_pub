@@ -517,3 +517,7 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 [6] Regulamento interno de licitações e contratos com startups. https://www.celepar.pr.gov.br/sites/celepar/arquivos_restritos/files/documento/2022-08/regulamento_interno_de_licitacoes_e_contratos_com_startups.pdf
 
 
+```
+Autor: Prof. Dr. Monteiro.
+Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
+```
