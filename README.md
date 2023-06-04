@@ -1,8 +1,9 @@
 # lab_inova_serv_pub
 ## Sobre os Laboratórios de Inovação no Serviço Público (LISP).
 
-Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público
-(Primeira postagem em: maio/2023).
+Uma compilação de material (curadoria de conteúdo digital) para suporte a um Laboratório de inovação no serviço público.
+
+###### Primeira postagem em: maio/2023. Última atualização em: jun/2023.
 
 
 ## Conteúdo:
@@ -374,6 +375,7 @@ Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=I
 
 ## 8 Cursos
 
+Cursos na escola virtual ENAP:
 
 Inovação Social para o Aperfeiçoamento de Políticas Públicas
 https://www.escolavirtual.gov.br/curso/234
