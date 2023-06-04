@@ -83,7 +83,9 @@ Fonte: [https://portais.univasf.edu.br/nit/portfolio-tecnologico/nivel-de-maturi
 Resumidamente os níveis são uma trilha do mais básico até o mais completo, que podem ser vistos aqui: [https://via.ufsc.br/nivel-de-maturidade-tecnologica-por-que-avaliar/], original em [http://www.artemisinnovation.com/images/TRL_White_Paper_2004-Edited.pdf].
 
 ```
-Trabalhos acadêmicos: Dissertação sobre análise do grau de maturidade em empresas de TI do estado de Minas Gerais, Fonte [https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf]. Tese de doutorado: Modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
+Trabalhos acadêmicos: 
+Dissertação sobre análise do grau de maturidade em empresas de TI do estado de Minas Gerais, Fonte [https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf]. 
+Tese de doutorado: Modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
 ```
 
 ## 2 Laboratório de Inovação
