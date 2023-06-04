@@ -120,19 +120,6 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
-#### 2.3.1. Legislação correlata:
-
-| Legislação | Observacao | URL |
-| ---------- | ---------- | --- |
-| Lei n. 10.973, de 2 de dezembro de 2004 | Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. | http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm |
-| Resolução Nº 221 de 10/05/2016 | Institui princípios de gestão participativa e democrática na elaboração das metas nacionais do Poder Judiciário e das políticas judiciárias do Conselho Nacional de Justiça. | https://atos.cnj.jus.br/atos/detalhar/2279 |
-| Resolução Nº 325 de 29/06/2020 | Dispõe sobre a Estratégia Nacional do Poder Judiciário 2021-2026 e dá outras providências. | https://atos.cnj.jus.br/atos/detalhar/3365 |
-| Resolução Nº 296 de 19/09/2019 | Cria e revoga Comissões Permanentes no âmbito do Conselho Nacional de Justiça. Art. 4º À Comissão Permanente de Tecnologia da Informação e Inovação compete..... | https://atos.cnj.jus.br/atos/detalhar/3038 |
-
-
-
-
-
 
 ## 3 Contratação de inovação
 
@@ -221,6 +208,10 @@ Descrição: Altera e adiciona dispositivos na Constituição Federal para atual
 Ano: 2015.<br>
 URL: https://legis.senado.leg.br/norma/540688/publicacao/16418165.<br>
 
+* Título: Resolução CNJ (atos do CNJ) <br>
+Descrição: Resolução CNJ, Nº 221 de 10/05/2016<br>
+Ano: 2016 <br>
+URL: https://atos.cnj.jus.br/atos/detalhar/2279<br>
 
 * Título: Lei Nº 13.243, de 11 de Janeiro DE 2016. <br>
 Descrição: Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004. <br>
@@ -233,6 +224,15 @@ Descrição: Regulamenta a Lei de Inovação para estabelecer medidas de incenti
 Ano: 2018. <br>
 URL: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9283.htm. <br>
 
+* Título: Resolução Nº 296 de 19/09/2019 (atos do CNJ) <br>
+Descrição: Cria e revoga Comissões Permanentes no âmbito do Conselho Nacional de Justiça. Art. 4º À Comissão Permanente de Tecnologia da Informação e Inovação compete....<br>
+Ano: 2019 <br>
+URL: https://atos.cnj.jus.br/atos/detalhar/3038<br>
+
+* Título: Resolução Nº 325 de 29/06/2020 (atos do CNJ)  <br>
+Descrição: Dispõe sobre a Estratégia Nacional do Poder Judiciário 2021-2026 e dá outras providências. <br>
+Ano: 2020 <br>
+URL: https://atos.cnj.jus.br/atos/detalhar/3365 <br>
 
 * Título: Lei complementar Nº 182, de 1º de Junho de 2021. (Lei das Startups). <br>
 Descrição: Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. <br>
