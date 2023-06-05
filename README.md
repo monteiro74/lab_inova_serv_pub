@@ -617,18 +617,18 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 ```
-Aviso: Este material esta recebendo atualizações frequentes.
+Aviso: Este material esta recebendo atualizações frequentes. As informações aqui contidas pode ser alteradas sem aviso prévio.
 Primeira postagem em: maio/2023. 
 Última atualização em: jun/2023.
 ```
 
 
-
+<!---
 ```
 Se desejar contribuir com novas informações ou atualizações nesta página entre em contato pelo email: 
 laboratorioinovacaogovbr @ gmail.com
 ```
-
+-->
 
 
 ```
