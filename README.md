@@ -206,7 +206,7 @@ B Trilha do instrumento
 
 Fonte: https://inovacpin.org/
 
-
+Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZnzUvV/view
 
 
 
