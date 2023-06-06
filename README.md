@@ -243,6 +243,8 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 
 ### 4.3. Editais e contratos, exemplos
 
+CPIN Modelo de Edital de Consulta Pública ao Mercado https://inovacpin.org/publico/biblioteca/57
+
 TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/16%20-%20Edital%20PUBLICADO.pdf
 
 Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
