@@ -190,7 +190,21 @@ Comparativo:
 | Valor        | 1,6 milhão    | 8 milhões               |
 
 
+### 3.2. Trilhas
 
+Jornada de Compras Públicas para Inovação:
+
+A Trilha do planejamento:
+1. Mapear problemas
+2. Escolha o desafio
+3. Descrever o desafio
+4. Mapeamento de mercado
+5. Decidir por contratar
+6. Definir instrumento de contratação
+
+B Trilha do instrumento
+
+Fonte: https://inovacpin.org/
 
 
 
