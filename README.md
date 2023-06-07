@@ -633,7 +633,8 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 ```
-Aviso: Este material esta recebendo atualizações frequentes. As informações aqui contidas pode ser alteradas sem aviso prévio.
+Aviso: Este material esta recebendo atualizações frequentes. 
+As informações aqui contidas pode ser alteradas sem aviso prévio.
 Primeira postagem em: maio/2023. 
 Última atualização em: jun/2023.
 ```
