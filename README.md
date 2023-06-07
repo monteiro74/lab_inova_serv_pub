@@ -639,12 +639,12 @@ Primeira postagem em: maio/2023.
 ```
 
 
-<!---
+
 ```
 Se desejar contribuir com novas informações ou atualizações nesta página entre em contato pelo email: 
-laboratorioinovacaogovbr @ gmail.com
+laboratorioinovacaogovbr @ gmail . com
 ```
--->
+
 
 
 ```
