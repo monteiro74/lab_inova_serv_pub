@@ -109,7 +109,7 @@ Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://re
 
 
 
-
+---
 
 ## 2 Laboratório de Inovação
 
@@ -161,7 +161,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 
 
 
-
+---
 
 ## 3 Contratação de inovação
 
@@ -216,7 +216,7 @@ Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZn
 
 
 
-
+---
 
 ## 4 Encomendas técnicas
 
@@ -308,7 +308,7 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 
 
-
+---
 
 ## 5 Lei das startups
 
@@ -351,7 +351,7 @@ Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-
 
 
 
-
+---
 
 ## 6 Bases legais, diversas
 
@@ -441,6 +441,10 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 ## 7 Linguagem simples
 -->
 
+
+---
+
+
 ## 7 Videos
 
 Recomendados:
@@ -465,7 +469,7 @@ Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=I
 
 
 
-
+---
 
 ## 8 Cursos
 
@@ -519,7 +523,7 @@ https://www.escolavirtual.gov.br/curso/367/
 
 
 
-
+---
 
 ## 9 Outros materiais
 
@@ -548,7 +552,7 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
-
+---
 
 ## 10 Lista de alguns laboratórios de inovação
 
@@ -593,7 +597,7 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
-
+---
 
 ## 11 Siglas
 
@@ -612,7 +616,7 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
-
+---
 
 ## Referências
 
