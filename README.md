@@ -436,15 +436,14 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 
-
 <!---
 ## 7 Linguagem simples
 -->
 
 
+
+
 ---
-
-
 ## 7 Videos
 
 Recomendados:
@@ -534,6 +533,9 @@ Garagem BNDES https://garagem.bndes.gov.br/#
 
 Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
+
+
+
 ### 9.1. Notícias
 
 Notícias no site do Ministério da Ecônomia sobre o termo "PLATAFORMA DE COMPRAS PÚBLICAS PARA INOVAÇÃO"
@@ -542,7 +544,12 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
+### 9.2. Normas
 
+
+
+* ISO 56002:2019 Innovation management — Innovation management system — Guidance
+https://www.iso.org/standard/68221.html
 
 
 
