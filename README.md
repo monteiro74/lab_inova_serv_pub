@@ -644,6 +644,17 @@ https://www.iso.org/standard/68221.html
 [8] Gestão da inovação: análise do grau de maturidade em empresas de ti do estado de minas gerais. https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf
 
 
+### Livros
+
+[1] Compras públicas de inovação revisando as compras públicas de inovação no Brasil: oportunidades jurídicas e institucionais Rafael Carvalho et al, BID
+https://publications.iadb.org/pt/revisitando-compras-publicas-de-inovacao-no-brasil-oportunidades-juridicas-e-institucionais
+
+[2] Contratações de inovação Guia de Alternativas Jurídicas e de Boas Práticas para Contratações de inovação no Brasil, Rafael Carvalho de Fassio, BID. https://publications.iadb.org/pt/contratacoes-de-inovacao-guia-de-alternativas-juridicas-e-de-boas-praticas-para-contratacoes-de
+
+[3] Catapulting innovation Linking open innovation with innovation procurement BID Pluvia Zuniga https://publications.iadb.org/en/catapulting-innovation-linking-open-innovation-innovation-procurement
+
+---
+
 ```
 Aviso: Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
