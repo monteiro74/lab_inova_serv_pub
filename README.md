@@ -557,7 +557,7 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
-* ISO 56002:2019 Innovation management — Innovation management system — Guidance
+ISO 56002:2019 Innovation management — Innovation management system — Guidance
 https://www.iso.org/standard/68221.html
 
 
