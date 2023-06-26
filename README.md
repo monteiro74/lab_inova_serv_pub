@@ -22,6 +22,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação) <br>
 [11 Siglas](#11-Siglas) <br>
 [Referências](#Referências) <br>
+[Livros](#Livros) <br>
 
 
 <!---
@@ -644,7 +645,8 @@ https://www.iso.org/standard/68221.html
 [8] Gestão da inovação: análise do grau de maturidade em empresas de ti do estado de minas gerais. https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf
 
 
-### Livros
+---
+## Livros
 
 [1] Compras públicas de inovação revisando as compras públicas de inovação no Brasil: oportunidades jurídicas e institucionais Rafael Carvalho et al, BID
 https://publications.iadb.org/pt/revisitando-compras-publicas-de-inovacao-no-brasil-oportunidades-juridicas-e-institucionais
