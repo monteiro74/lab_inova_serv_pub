@@ -426,6 +426,12 @@ Ano: 2021.<br>
 URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm.<br>
 Ilustração: https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens/nova_lei_licitacao.jpeg
 
+* Modelos de instrumentos jurídicos de CT&I (Elaborados pela CGU)
+https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti/modelogeral
+
+* Modelos e pareceres de CT&I para ICTs da União https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti
+
+
 ### 6.1. Diferenças entre tipos de compras
 
 Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação, Fonte: [https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf].
