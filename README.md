@@ -466,7 +466,7 @@ Petrobras Módulo Transferência de Tecnologia https://www.youtube.com/watch?v=Y
 Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=IxG8RzGfFHk
 
 
-
+Diálogo Público TCU + Cidades Compras Públicas de Inovação - Marco Legal de Startups https://www.youtube.com/watch?v=GrEZKZBmdfg
 
 
 
