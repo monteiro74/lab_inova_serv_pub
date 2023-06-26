@@ -541,7 +541,8 @@ Garagem BNDES https://garagem.bndes.gov.br/#
 
 Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
-
+Uma FAQ para o gestor público realizar compras:
+Guia de publicação online do gestor de Compra Pública para Inovação https://inovacpin.org/publico/biblioteca/58
 
 
 ### 9.1. Notícias
