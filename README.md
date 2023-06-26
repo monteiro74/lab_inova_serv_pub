@@ -518,7 +518,8 @@ Novas Tecnologias para a Transformação Digital
 https://www.escolavirtual.gov.br/curso/367/
 
 
-
+Primeiros passos para uso de Linguagem Simples
+https://www.escolavirtual.gov.br/curso/315
 
 
 
