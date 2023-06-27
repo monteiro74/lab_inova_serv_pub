@@ -218,8 +218,16 @@ Fonte: https://inovacpin.org/
 Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZnzUvV/view
 
 
+### 3.3. Trilha do CPSI
 
-### 3.3 Resumo CPSI
+| Etapa        | Fase          | Descrição|
+| ------------ | ------------- | ----------------------- |
+| 1 Trilha do planejamento | 1.1 Planejamento | 1.1.1 Mapear os problemas <br> 1.1.2 Escolher os desafios <br> 1.1.3 Imersão no desafio escolhido <br> 1.1.4 Mapear o mercado <br> 1.1.5 Decidir por contratar <br> 1.1.6 Definir instrumento de comple <br>|
+| 2. Trilha do instrumento  | 2.1 Licitação | 2.1.1 Delimitar escopo <br> 2.1.2 Publicar edital <br> 2.1.3 Avaliar e julgar propostas <br> 2.1.4 Analisar documentação de habilitação <br> 2.1.5 Avaliar condição |
+| | 2.2. Celebrar CPSI | 2.2.1 Celebrar CPSI <br> 2.2.2 Gerir contrato <br> |
+| | 2.3. Celebrar o contrato de fornecimento | 2.3.1 Decidir sobre o contrato de fornecimento <br> 2.3.2 Celebrar contrato <br> 2.3.3 Gerir contrato<br>
+
+### 3.4 Resumo CPSI
 
 CPSI
 ◦ Demanda que exija solução inovadora com emprego de tecnologia;
