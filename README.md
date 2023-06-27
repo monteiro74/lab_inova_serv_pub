@@ -621,6 +621,7 @@ https://www.iso.org/standard/68221.html
 * CPSI - Contrato Público para Solução Inovadora
 * DPI - Direito de Propriedade Intelectual
 * ETEC - Encomenda tecnológica
+* LASI - Licitação para Aquisição de Solução Inovadora
 * LISP - Laboratórios de Inovação no Setor Público
 * MLSEI - Marco Legal de Startups e Empreendedorismo Inovador
 * MVP -  Minimum Viable Product (produto mínimo viável)
