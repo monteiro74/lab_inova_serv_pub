@@ -307,6 +307,8 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 ## 5 CPSI Contrato Público de Solução Inovadora
 
 
+É uma modalidade contratual criada pelo Marco Legal das Startups e do Empreendedorismo Inovador MLSEI (Lei Complementar Nº 182, 1º de junho de 2021). Nesta modalidade o poder público pode testar uima solição inovadora desenvolvida ou ainda em desenvolvimento (não esta totalmente pronta).
+
 
 
 
