@@ -174,7 +174,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 ## 3 CPSI Contrato Público de Solução Inovadora
 
 
-### 3.1. Definições
+### 3.1 Definições
 
 O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
 
@@ -199,7 +199,7 @@ Comparativo:
 | Valor        | 1,6 milhão    | 8 milhões               |
 
 
-### 3.2. Trilhas
+### 3.2 Trilhas
 
 Jornada de Compras Públicas para Inovação:
 
@@ -219,7 +219,22 @@ Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZn
 
 
 
+### 3.3 Resumo CPSI
 
+CPSI
+◦ Demanda que exija solução inovadora com emprego de tecnologia;
+◦ Adm Pública direta, autárquica e fundacional - União, Estados e Municípios;
+◦ Estatais mediante regulamento (art. 12, §2º);
+◦ Valores podem ser anualmente atualizados (IPCA ou equivalente) – máx. R$ 1.600.000,00;
+◦ Pessoas físicas ou jurídicas isoladamente ou em consórcio;
+◦ Com ou sem risco tecnológico (cronograma físico-financeiro aprovado + rescisão antecipada);
+◦ Metas e metodologia de aferição;
+◦ Formas e periodicidade das entregas (monitoramento) + Relatórios intermediários e final;
+◦ Matriz de riscos contratuais;
+◦ Remuneração, titularidade da PI, participação nos direitos de exploração (comercial, licenciamento e
+transferência de tecnologia);
+◦ Pagamento antecipado de parcela (previsto em edital + etapa inicial + justifica expressa).
+Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8/papel_controle_CPSI%20_1_.pdf, página 11.
 
 
 
@@ -305,7 +320,7 @@ FINEP http://www.finep.gov.br/chamadas-publicas/chamadapublica/714
 
 Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
-
+MP RJ https://www.mprj.mp.br/inova/cpsi
 
 
 
@@ -463,6 +478,7 @@ Ilustração: https://github.com/monteiro74/lab_inova_serv_pub/blob/main/imagens
 https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti/modelogeral
 
 * Modelos e pareceres de CT&I para ICTs da União https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti
+
 
 
 ### 7.1 Diferenças entre tipos de compras
