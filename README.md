@@ -227,6 +227,8 @@ Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZn
 | | 2.2. Celebrar CPSI | 2.2.1 Celebrar CPSI <br> 2.2.2 Gerir contrato <br> |
 | | 2.3. Celebrar o contrato de fornecimento | 2.3.1 Decidir sobre o contrato de fornecimento <br> 2.3.2 Celebrar contrato <br> 2.3.3 Gerir contrato<br>
 
+Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8/papel_controle_CPSI%20_1_.pdf
+
 ### 3.4 Resumo CPSI
 
 CPSI
