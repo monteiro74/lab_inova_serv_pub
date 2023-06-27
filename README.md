@@ -183,7 +183,7 @@ A partir da fonte citada acima, temos alguns pontos a destacar:
 
 * Um CPSI tem uma "trava" de valor limite de R$ 1,6 milhão por contrato e outro trava de duração contratual de 12 meses, prorrogável por até 12 doze meses.
 * Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI (Marco Legal de Startups e Empreendedorismo Inovador) tem o "contrato de fornecimento".
-* ETEC deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
+* ETEC (Encomenda Tecnológica) deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
 * CPSI permite remunerar P&D.
 * O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
 * O MLSEI permite definir a titularidade do DPIs.
@@ -242,6 +242,10 @@ Definição 2: é a compra direta de serviços de Pesquisa e Desenvolvimento par
 Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é uma compra pública voltada para encontrar solução para determinado problema por meio de desenvolvimento tecnológico. Ou, formalmente, as Etecs são tipos especiais de compras públicas diretas voltadas a situações muito específicas nas quais exista risco tecnológico. Fonte: [RAUEN, A. T.; BARBOSA, C. M. M. (Org.). Encomendas tecnológicas no Brasil: guia geral de boas práticas. Brasília: Ipea, 2019.]
 
 
+
+
+
+
 ### 4.2. Exemplo, + materiais
 
 1. Cartilha do TCU sobre ETEC:  https://portal.tcu.gov.br/encomenda-tecnologica-etec.htm
@@ -249,6 +253,11 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 3. Jornada para contratação: https://inovacpin.org/
 4. Exemplo de constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
 5. ETEC guia geral de boas práticas: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf.
+
+
+
+
+
 
 ### 4.3. Editais e contratos, exemplos
 
@@ -346,6 +355,10 @@ Definição 3: Comentários de diversos autores sobre a interpretação e concei
 
 
 Definição 4: A startup (termo da língua inglesa sem tradução oficial) termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível. Fonte: [https://pt.wikipedia.org/wiki/Startup].
+
+
+
+
 
 
 ### 6.2. Requisitos para enquadramento como startup
@@ -561,7 +574,7 @@ Garagem BNDES https://garagem.bndes.gov.br/#
 
 Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 
-Uma FAQ para o gestor público realizar compras:
+Uma FAQ (perguntas frequentes, do inglês frequently asked questions) para o gestor público realizar compras:
 Guia de publicação online do gestor de Compra Pública para Inovação https://inovacpin.org/publico/biblioteca/58
 
 
