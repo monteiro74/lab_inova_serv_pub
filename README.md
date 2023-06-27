@@ -28,8 +28,8 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [10 Outros materiais](#10-Outros-materiais) <br>
 [11 Lista de alguns laboratórios de inovação](#11-Lista-de-alguns-laboratórios-de-inovação) <br>
 [12 Siglas](#12-Siglas) <br>
-[13-Referências](#13-Referências) <br>
-[14-Livros](#14-Livros) <br>
+[13 Referências](#13-Referências) <br>
+[14 Livros](#14-Livros) <br>
 
 
 <!---
