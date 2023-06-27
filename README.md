@@ -617,6 +617,7 @@ https://www.iso.org/standard/68221.html
 
 ## 11 Siglas
 
+* CPIN - Compra Pública para Inovação
 * CPSI - Contrato Público para Solução Inovadora
 * DPI - Direito de Propriedade Intelectual
 * ETEC - Encomenda tecnológica
