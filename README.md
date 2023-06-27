@@ -18,17 +18,18 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
-[3 Contratação de inovação](#3-Contratação-de-inovação) <br>
-[4 Encomendas técnicas](#4-Encomendas-técnicas) <br>
-[5 Lei das startups](#5-Lei-das-startups) <br>
-[6 Bases legais](#6-bases-legais-diversas) <br>
-[7 Videos](#7-Videos) <br>
-[8 Cursos](#8-Cursos) <br>
-[9 Outros materiais](#9-Outros-materiais) <br>
-[10 Lista de alguns laboratórios de inovação](#10-Lista-de-alguns-laboratórios-de-inovação) <br>
-[11 Siglas](#11-Siglas) <br>
-[Referências](#Referências) <br>
-[Livros](#Livros) <br>
+[3 CPSI Contrato Público de Solução Inovadora](#3-Contratação-de-inovação) <br>
+[4 ETEC Encomendas técnicas](#4-Encomendas-técnicas) <br>
+[5 Breve comparativo ETEC x CPSI](#5-Breve-comparativo-ETEC-x-CPSI) <br>
+[6 Lei das startups](#6-Lei-das-startups) <br>
+[7 Bases legais](#7-bases-legais-diversas) <br>
+[8 Videos](#8-Videos) <br>
+[9 Cursos](#9-Cursos) <br>
+[10 Outros materiais](#10-Outros-materiais) <br>
+[11 Lista de alguns laboratórios de inovação](#11-Lista-de-alguns-laboratórios-de-inovação) <br>
+[12 Siglas](#12-Siglas) <br>
+[13-Referências](#13-Referências) <br>
+[14-Livros](#14-Livros) <br>
 
 
 <!---
@@ -305,15 +306,34 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 
 
+--- 
+## 5 Breve comparativo ETEC x CPSI
+
+
+
+|  CPSI          | ETEC |
+|  ------------- | ----------------------- |
+| Descreve o problema  | Descreve a solução esperada |
+| + simples que ETEC | Dispensa licitação, + complicada |
+| Admite um grau de risco | Envolve risco tecnológico |
+| Permite comprar um teste | Alto índice de incerteza |
+| Descreve os resultados esperados | Envolve atividades de P&D |
+| Proposta são analisadas via comissão (de especialistas de diversas áreas) | Também utiliza uma comissão |
+| Podem ser escolhidas mais de uma proposta e colocá-las para rodar em paralelo | Pode contratar mais de um interessado |
+| 24 meses (12 + 12) | podem ter prazo de vigência de até 10 anos |
+| Pode-se fazer contrato direto com o proponente após o termino dos do contrato | A solução não é conhecida ou não esta disponível |
+
+
+
 
 
 
 
 ---
 
-## 5 Lei das startups
+## 6 Lei das startups
 
-### 5.1. Definições
+### 6.1. Definições
 
 
 Definição 1: Uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.  Fonte: [https://sebrae.com.br/sites/PortalSebrae/artigos/o-que-e-uma-startup,6979b2a178c83410VgnVCM1000003b74010aRCRD#:~:text=No%20entanto%2C%20h%C3%A1%20uma%20defini%C3%A7%C3%A3o,em%20condi%C3%A7%C3%B5es%20de%20extrema%20incerteza].
@@ -328,7 +348,7 @@ Definição 3: Comentários de diversos autores sobre a interpretação e concei
 Definição 4: A startup (termo da língua inglesa sem tradução oficial) termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível. Fonte: [https://pt.wikipedia.org/wiki/Startup].
 
 
-### 5.2. Requisitos para enquadramento como startup
+### 6.2. Requisitos para enquadramento como startup
 
 * Ter faturamento bruto anual de até R$ 16 milhões no ano-calendário anterior ou de R$ 1,3 milhão multiplicado pelo número de meses de atividade no ano-calendário anterior, quando inferior a um ano;
 * Com até seis anos de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ);
@@ -354,7 +374,7 @@ Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-
 
 ---
 
-## 6 Bases legais, diversas
+## 7 Bases legais, diversas
 
 * Título: Lei Nº 8.666, de 21 de Junho de 1993.<br>
 Descrição: Institui normas para licitações e contratos da Administração Pública. <br>
@@ -432,7 +452,7 @@ https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti/modelogeral
 * Modelos e pareceres de CT&I para ICTs da União https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti
 
 
-### 6.1. Diferenças entre tipos de compras
+### 7.1 Diferenças entre tipos de compras
 
 Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação, Fonte: [https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf].
 
@@ -451,7 +471,7 @@ Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovaçã
 
 
 ---
-## 7 Videos
+## 8 Videos
 
 Recomendados:
 
@@ -477,7 +497,7 @@ Diálogo Público TCU + Cidades Compras Públicas de Inovação - Marco Legal de
 
 ---
 
-## 8 Cursos
+## 9 Cursos
 
 Cursos na escola virtual ENAP:
 
@@ -532,7 +552,7 @@ https://www.escolavirtual.gov.br/curso/315
 
 ---
 
-## 9 Outros materiais
+## 10 Outros materiais
 
 
 Hub de inovação da Petrobras https://tecnologia.petrobras.com.br/conexoes-inovacao
@@ -545,7 +565,7 @@ Uma FAQ para o gestor público realizar compras:
 Guia de publicação online do gestor de Compra Pública para Inovação https://inovacpin.org/publico/biblioteca/58
 
 
-### 9.1. Notícias
+### 10.1. Notícias
 
 Notícias no site do Ministério da Ecônomia sobre o termo "PLATAFORMA DE COMPRAS PÚBLICAS PARA INOVAÇÃO"
 https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMPRAS%20P%C3%9ABLICAS%20PARA%20INOVA%C3%87%C3%83O%20
@@ -553,7 +573,7 @@ https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMP
 
 
 
-### 9.2. Normas
+### 10.2. Normas
 
 
 
@@ -570,7 +590,7 @@ https://www.iso.org/standard/68221.html
 
 ---
 
-## 10 Lista de alguns laboratórios de inovação
+## 11 Lista de alguns laboratórios de inovação
 
 | Laboratório   | Localização   | Instituição | URL |
 | ------------- | ------------- | ----------- | --- |
@@ -615,7 +635,7 @@ https://www.iso.org/standard/68221.html
 
 ---
 
-## 11 Siglas
+## 12 Siglas
 
 
 * CPIN - Compra Pública para Inovação
@@ -638,7 +658,7 @@ https://www.iso.org/standard/68221.html
 
 ---
 
-## Referências
+## 13 Referências
 
 [1] Descobrindo laboratórios de inovação no setor público. https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/171002_inovacao_no_setor_publico_capitulo_9.pdf
 
@@ -658,7 +678,7 @@ https://www.iso.org/standard/68221.html
 
 
 ---
-## Livros
+## 14 Livros
 
 [1] Compras públicas de inovação revisando as compras públicas de inovação no Brasil: oportunidades jurídicas e institucionais Rafael Carvalho et al, BID
 https://publications.iadb.org/pt/revisitando-compras-publicas-de-inovacao-no-brasil-oportunidades-juridicas-e-institucionais
