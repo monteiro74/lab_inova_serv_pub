@@ -8,6 +8,12 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 ###### Última atualização em: jun/2023.
 
 
+
+
+
+
+
+
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
@@ -72,7 +78,7 @@ Fonte: National Audit Office, 2006b, p. 4.
 
 ### 1.1 Niveis de maturidade tecnológica
 
-Os níveis auxiliação das Startups e suas propostas. Os níveis de Maturidade Tecnológica (TRL/MRL) são 9:
+Os níveis auxiliação das Startups e suas propostas. Os níveis de Maturidade Tecnológica (TRL/MRL, Technology Readiness Levels/Manufacturing Readiness Levels) são 9:
 
 * TRL/MRL 1:  Ideia da pesquisa que está sendo iniciada e esses primeiros indícios de viabilidade estão sendo traduzidos em pesquisa e desenvolvimento futuros.
 * TRL/MRL 2: Os princípios básicos foram definidos e há resultados com aplicações práticas que apontam para a confirmação da ideia inicial.
@@ -175,7 +181,7 @@ O contrato... "CPSI tenha sido celebrado para solucionar um problema específico
 A partir da fonte citada acima, temos alguns pontos a destacar:
 
 * Um CPSI tem uma "trava" de valor limite de R$ 1,6 milhão por contrato e outro trava de duração contratual de 12 meses, prorrogável por até 12 doze meses.
-* Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI tem o "contrato de fornecimento".
+* Em um primeiro momento o CPSI pode focar a fase de testes, posteriormente o MLSEI (Marco Legal de Startups e Empreendedorismo Inovador) tem o "contrato de fornecimento".
 * ETEC deve seguir prioritariamente a legislação específica de inovação, qual seja, a Lei no 10.973/2004 e o Decreto no 9.283/2018.
 * CPSI permite remunerar P&D.
 * O MLSEI permite a contratação de mais de CPSI com fornecedores diferentes para o mesmo problema.
@@ -297,7 +303,8 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 
 
-
+---
+## 5 CPSI Contrato Público de Solução Inovadora
 
 
 
@@ -617,6 +624,7 @@ https://www.iso.org/standard/68221.html
 
 ## 11 Siglas
 
+
 * CPIN - Compra Pública para Inovação
 * CPSI - Contrato Público para Solução Inovadora
 * DPI - Direito de Propriedade Intelectual
@@ -628,6 +636,7 @@ https://www.iso.org/standard/68221.html
 * NPT - Nível de Prontidão Tecnológica (technology readiness level) também conhecido como NMT
 * NMT -  Nível de Maturidade Tecnológica
 * P&D - Pesquisa e Desenvolvimento
+* TRL/MRL - Technology Readiness Levels/Manufacturing Readiness Levels
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
 
 
