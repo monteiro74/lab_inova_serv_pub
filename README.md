@@ -24,12 +24,12 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [2.2 Objetivos de laboratórios (públicos)](#22-objetivos-de-laboratórios-públicos)<br>
 [2.3 Base legal](#23-base-legal)<br>
 [3 CPSI Contrato Público de Solução Inovadora](#3-Contratação-de-inovação) <br>
-[3.1 Definições](#31-definições-de-cpsi)<br>
+[3.1 Definições de CPSI](#31-definições-de-cpsi)<br>
 [3.2 Trilhas](#32-trilhas)<br>
 [3.3 Trilha do CPSI](#33-trilha-do-cpsi)<br>
 [3.4 Resumo CPSI](#34-resumo-cpsi)<br>
 [4 ETEC Encomendas técnicas](#4-Encomendas-técnicas) <br>
-[4.1 Definições](#41-definições-de-etec)<br>
+[4.1 Definições de ETEC](#41-definições-de-etec)<br>
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [4.3 Editais e contratos, exemplos](#43-editais-e-contratos-exemplos)<br>
 [5 Breve comparativo ETEC x CPSI](#5-Breve-comparativo-ETEC-x-CPSI) <br>
