@@ -360,7 +360,7 @@ MP RJ https://www.mprj.mp.br/inova/cpsi
 | Proposta são analisadas via comissão (de especialistas de diversas áreas) | Também utiliza uma comissão |
 | Podem ser escolhidas mais de uma proposta e colocá-las para rodar em paralelo | Pode contratar mais de um interessado |
 | 24 meses (12 + 12) | podem ter prazo de vigência de até 10 anos |
-| Pode-se fazer contrato direto com o proponente após o termino dos do contrato | A solução não é conhecida ou não esta disponível |
+| Pode-se fazer contrato direto com o proponente após o termino do contrato | A solução não é conhecida ou não esta disponível |
 
 
 
