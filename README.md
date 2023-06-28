@@ -14,7 +14,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 
 
 
-## Conteúdo
+## Sumário
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
 [1.1 Niveis de maturidade tecnológica](#11-niveis-de-maturidade-tecnológica)<br>
@@ -92,7 +92,7 @@ Fonte: Bekkers, V.; Edelenbos, J.; Steijn, A. Innovation in the public sector: l
 Definição 7: There is no widely accepted or common definition of what counts as ‘innovation’.
 Fonte: National Audit Office, 2006b, p. 4.
 
-[Voltar ao top](#conteúdo)<br>
+[Sumário](#sumário)<br>
 
 ### 1.1 Niveis de maturidade tecnológica
 
@@ -118,7 +118,7 @@ Trabalhos acadêmicos:
 Dissertação sobre análise do grau de maturidade em empresas de TI do estado de Minas Gerais, Fonte [https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf]. 
 Tese de doutorado sobre o modelo de avaliação da maturidade, Fonte [https://repositorio.ufsc.br/bitstream/handle/123456789/172792/343700.pdf?sequence=1&isAllowed=y].
 ```
-
+[Sumário](#sumário)<br>
 
 
 
@@ -147,6 +147,9 @@ Os laboratórios de inovação são estruturas que fazem parte da administraçã
 
 Os laboratórios de inovação no setor público têm a expectativa de influenciar o setor público como um todo, promovendo mudanças estruturais e sistêmicas e, portanto, que levem a um ganho de escala no desempenho e na qualidade dos serviços públicos, Fonte: [https://repositorio.enap.gov.br/bitstream/1/5112/1/69_Laboratorios_inovacao_governo_completo_final_23062020.pdf].
 
+[Sumário](#sumário)<br>
+
+
 #### 2.1.1. Definições de laboratórios de inovação em governos
 
 “Os laboratórios de inovação do governo são lugares dinâmicos que estimulam a criatividade para o design de soluções para políticas públicas. Esses laboratórios geralmente possuem equipes multissetoriais e abordam as questões de forma colaborativa.” (Acevedo, Dassen, 2016, p. 19), Fonte: BID.
@@ -156,6 +159,9 @@ Os laboratórios de inovação no setor público têm a expectativa de influenci
 “Os laboratórios de inovação do governo são espaços de parceria onde o governo e outras organizações experimentam novas formas de resolver problemas antigos.” (UNDP, p. 6), Fonte: UNDP.
 
 LISP: "Laboratórios de inovação no setor público são ambientes colaborativos que buscam fomentar a criatividade, a experimentação e a inovação, por meio da adoção de metodologias ativas e da cocriação, na resolução de problemas", [2].
+
+[Sumário](#sumário)<br>
+
 
 ### 2.2. Objetivos de laboratórios (públicos)
 
@@ -167,6 +173,8 @@ LISP: "Laboratórios de inovação no setor público são ambientes colaborativo
 6. Introduzir novos métodos de comunicação na administração pública <br>
 7. Abrir os dados da administração pública <br>
 
+[Sumário](#sumário)<br>
+
 ### 2.3. Base legal
 
 
@@ -176,7 +184,7 @@ Portarias:
 
 Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável da Justiça Eleitoral): https://www.tse.jus.br/legislacao/compilada/prt/2020/portaria-no-747-de-05-de-outubro-de-2020 e Tribunal Regional Eleitoral do Ceará, a Portaria nº 544/2021: https://sintse.tse.jus.br/documentos/2022/Jul/15/diario-da-justica-eletronico-tres-destaques/portaria-no-596-2022-altera-a-portaria-no-544-2021-que-institui-o-laboratorio-de-inovacao-inteligenc
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -215,6 +223,7 @@ Comparativo:
 | Tempo        | 12 meses + 12 | 24 meses + 24           |
 | Valor        | 1,6 milhão    | 8 milhões               |
 
+[Sumário](#sumário)<br>
 
 ### 3.2 Trilhas
 
@@ -234,6 +243,9 @@ Fonte: https://inovacpin.org/
 
 Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZnzUvV/view
 
+[Sumário](#sumário)<br>
+
+
 
 ### 3.3. Trilha do CPSI
 
@@ -245,6 +257,8 @@ Digrama da trilha: https://drive.google.com/file/d/1n3gHdtqIMhPp7HGvnChtrqCQruZn
 | | 2.3. Celebrar o contrato de fornecimento | 2.3.1 Decidir sobre o contrato de fornecimento <br> 2.3.2 Celebrar contrato <br> 2.3.3 Gerir contrato<br>
 
 Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8/papel_controle_CPSI%20_1_.pdf
+
+[Sumário](#sumário)<br>
 
 ### 3.4 Resumo CPSI
 
@@ -269,10 +283,10 @@ V - a definição da titularidade dos direitos de propriedade intelectual das cr
 
 V - a participação nos resultados de sua exploração, assegurados às partes os direitos de exploração comercial, de licenciamento e de transferência da tecnologia de que são titulares.
 
+[Sumário](#sumário)<br>
 
 
 ---
-
 ## 4 Encomendas técnicas
 
 ### 4.1. Definições de ETEC
@@ -288,7 +302,7 @@ Definição 2: é a compra direta de serviços de Pesquisa e Desenvolvimento par
 
 Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é uma compra pública voltada para encontrar solução para determinado problema por meio de desenvolvimento tecnológico. Ou, formalmente, as Etecs são tipos especiais de compras públicas diretas voltadas a situações muito específicas nas quais exista risco tecnológico. Fonte: [RAUEN, A. T.; BARBOSA, C. M. M. (Org.). Encomendas tecnológicas no Brasil: guia geral de boas práticas. Brasília: Ipea, 2019.]
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -301,7 +315,7 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a Etec é
 4. Exemplo de constituição de comissão para compra de ETEC: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/ACFrOgBEQk_UpgYV72gB6R_hri9ZuTcycrdJdssADKI9XvhR9Q66FYS0LMJmBfxyoh1pMHCobG7Kr8ug-7uTpUr97W-0Yzh36f5br0dPSNCIZglh3yLbSAmBw5A562yw_895BEtiR0ukkI6r3Qpr.pdf
 5. ETEC guia geral de boas práticas: https://www.fapepi.pi.gov.br/wp-content/uploads/2022/11/Etec-Guia-Boas-Praticas.pdf.
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -354,7 +368,7 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 MP RJ https://www.mprj.mp.br/inova/cpsi
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -379,7 +393,7 @@ MP RJ https://www.mprj.mp.br/inova/cpsi
 | 24 meses (12 + 12) | podem ter prazo de vigência de até 10 anos |
 | Pode-se fazer contrato direto com o proponente após o termino do contrato | A solução não é conhecida ou não esta disponível |
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -403,7 +417,7 @@ Definição 3: Comentários de diversos autores sobre a interpretação e concei
 
 Definição 4: A startup (termo da língua inglesa sem tradução oficial) termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível. Fonte: [https://pt.wikipedia.org/wiki/Startup].
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -420,7 +434,7 @@ Regime especial: Inova Simples: art. 65-A da Lei Complementar nº 123, de 2006
 
 Fonte: [https://www.camara.leg.br/noticias/701544-PROJETO-DO-GOVERNO-CRIA-MARCO-LEGAL-DAS-STARTUPS-E-DO-EMPREENDEDORISMO-INOVADOR].
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -511,13 +525,14 @@ https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti/modelogeral
 
 * Modelos e pareceres de CT&I para ICTs da União https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/cti
 
+[Sumário](#sumário)<br>
 
 
 ### 7.1 Diferenças entre tipos de compras
 
 Diferença entre Compras Públicas tradicionais e Compras Públicas de Inovação, Fonte: [https://portal.tcu.gov.br/data/files/CF/47/FE/D5/BC3348102DFE0FF7F18818A8/Jornada%20de%20Compras%20Publicas%20de%20Inovacao.pdf].
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -549,7 +564,7 @@ Petrobras Modulo Aquisição de Soluções https://www.youtube.com/watch?v=I
 
 Diálogo Público TCU + Cidades Compras Públicas de Inovação - Marco Legal de Startups https://www.youtube.com/watch?v=GrEZKZBmdfg
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -602,7 +617,7 @@ https://www.escolavirtual.gov.br/curso/367/
 Primeiros passos para uso de Linguagem Simples
 https://www.escolavirtual.gov.br/curso/315
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -625,23 +640,22 @@ Editais do CIETEC https://www.cietec.org.br/editais-em-andamento/
 Uma FAQ (perguntas frequentes, do inglês frequently asked questions) para o gestor público realizar compras:
 Guia de publicação online do gestor de Compra Pública para Inovação https://inovacpin.org/publico/biblioteca/58
 
+[Sumário](#sumário)<br>
 
 ### 10.1. Notícias
 
 Notícias no site do Ministério da Ecônomia sobre o termo "PLATAFORMA DE COMPRAS PÚBLICAS PARA INOVAÇÃO"
 https://www.gov.br/economia/pt-br/@@search?SearchableText=PLATAFORMA%20DE%20COMPRAS%20P%C3%9ABLICAS%20PARA%20INOVA%C3%87%C3%83O%20
 
-
+[Sumário](#sumário)<br>
 
 
 ### 10.2. Normas
 
-
-
 ISO 56002:2019 Innovation management — Innovation management system — Guidance
 https://www.iso.org/standard/68221.html
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -685,7 +699,7 @@ https://www.iso.org/standard/68221.html
 | Laboratório Hacker de Inovação (Labhinova) | DF | Câmara Legislativa do DF | |
 | Laboratório de inovação em compras públicas - LAB-COMP | DF | Câmara dos Deputados | |
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -713,7 +727,7 @@ https://www.iso.org/standard/68221.html
 * TRL/MRL - Technology Readiness Levels/Manufacturing Readiness Levels
 * VUCA - Volatility, Uncertainty, Complexity, Ambiguity (Volátil, incerto, complexo e ambíguo)
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -737,6 +751,10 @@ https://www.iso.org/standard/68221.html
 
 [8] Gestão da inovação: análise do grau de maturidade em empresas de ti do estado de minas gerais. https://www.fpl.edu.br/2018/media/pdfs/mestrado/dissertacoes_2009/dissertacao_paulo_nascimento_2009.pdf
 
+[Sumário](#sumário)<br>
+
+
+
 
 ---
 ## 14 Livros
@@ -748,10 +766,16 @@ https://publications.iadb.org/pt/revisitando-compras-publicas-de-inovacao-no-bra
 
 [3] Catapulting innovation Linking open innovation with innovation procurement BID Pluvia Zuniga https://publications.iadb.org/en/catapulting-innovation-linking-open-innovation-innovation-procurement
 
+[Sumário](#sumário)<br>
+
+
+
 ---
+## Observações
+
 
 ```
-Aviso: Este material esta recebendo atualizações frequentes. 
+Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: maio/2023. 
 Última atualização em: jun/2023.
@@ -772,3 +796,4 @@ Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
+
