@@ -24,12 +24,12 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [2.2 Objetivos de laboratórios (públicos)](#22-objetivos-de-laboratórios-públicos)<br>
 [2.3 Base legal](#23-base-legal)<br>
 [3 CPSI Contrato Público de Solução Inovadora](#3-Contratação-de-inovação) <br>
-[3.1 Definições](#31-definições)<br>
+[3.1 Definições](#31-definições-de-cpsi)<br>
 [3.2 Trilhas](#32-trilhas)<br>
 [3.3 Trilha do CPSI](#33-trilha-do-cpsi)<br>
 [3.4 Resumo CPSI](#34-resumo-cpsi)<br>
 [4 ETEC Encomendas técnicas](#4-Encomendas-técnicas) <br>
-[4.1 Definições](#41-definições)<br>
+[4.1 Definições](#41-definições-de-etec)<br>
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [4.3 Editais e contratos, exemplos](#43-editais-e-contratos-exemplos)<br>
 [5 Breve comparativo ETEC x CPSI](#5-Breve-comparativo-ETEC-x-CPSI) <br>
@@ -191,7 +191,7 @@ Base legal para criar o laboratório LIODS-SE (Laboratório de Inovação, Intel
 ## 3 CPSI Contrato Público de Solução Inovadora
 
 
-### 3.1 Definições
+### 3.1 Definições de CPSI
 
 O contrato... "CPSI tenha sido celebrado para solucionar um problema específico e real, não há a obrigação para a administração pública de contratar o fornecimento dos bens ou serviços", Fonte: [https://repositorio.ipea.gov.br/bitstream/11058/11623/14/218187_LV_Compras%20publicas_Cap12.pdf].
 
@@ -275,7 +275,7 @@ V - a participação nos resultados de sua exploração, assegurados às partes 
 
 ## 4 Encomendas técnicas
 
-### 4.1. Definições
+### 4.1. Definições de ETEC
 
 
 Definições 1: A Encomenda Tecnológica (ETEC) é um dos instrumentos de estímulo à inovação instituídos pela Lei 10.973/2004 (Lei de Inovação), alterada pela Lei 13.243/2016 e regulamentada pelo Decreto 9.283/2018. A ETEC também é prevista como um dos casos de dispensa de licitação, conforme art. 24, inciso XXXI, da Lei 8.666/1993, que se aplica ao presente instrumento subsidiariamente, visto que a Lei de Inovação prevê regras específicas para esse tipo de contratação.
