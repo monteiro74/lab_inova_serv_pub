@@ -17,15 +17,32 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 ## Conteúdo:
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
+[1.1 Niveis de maturidade tecnológica](#11-niveis-de-maturidade-tecnológica)<br>
 [2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
+[2.1 Definições](#21-definições)<br>
+[2.1.1 Definições de laboratórios de inovação em governos](#211-definições-de-laboratórios-de-inovação-em-governos)<br>
+[2.2 Objetivos de laboratórios (públicos)](#22-objetivos-de-laboratórios-públicos)<br>
+[2.3 Base legal](#23-base-legal)<br>
 [3 CPSI Contrato Público de Solução Inovadora](#3-Contratação-de-inovação) <br>
+[3.1 Definições](#31-definições)<br>
+[3.2 Trilhas](#32-trilhas)<br>
+[3.3 Trilha do CPSI](#33-trilha-do-cpsi)<br>
+[3.4 Resumo CPSI](#34-resumo-cpsi)<br>
 [4 ETEC Encomendas técnicas](#4-Encomendas-técnicas) <br>
+[4.1 Definições](#41-definições)<br>
+[4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
+[4.3 Editais e contratos, exemplos](#43-editais-e-contratos-exemplos)<br>
 [5 Breve comparativo ETEC x CPSI](#5-Breve-comparativo-ETEC-x-CPSI) <br>
 [6 Lei das startups](#6-Lei-das-startups) <br>
+[6.1 Definições](#61-definições)<br>
+[6.2 Requisitos para enquadramento como startup](#62-requisitos-para-enquadramento-como-startup)<br>
 [7 Bases legais](#7-bases-legais-diversas) <br>
+[7.1 Diferenças entre tipos de compras](#71-diferenças-entre-tipos-de-compras)<br>
 [8 Videos](#8-Videos) <br>
 [9 Cursos](#9-Cursos) <br>
 [10 Outros materiais](#10-Outros-materiais) <br>
+[10.1 Notícias](#101-notícias)<br>
+[10.2 Normas](#102-normas)<br>
 [11 Lista de alguns laboratórios de inovação](#11-Lista-de-alguns-laboratórios-de-inovação) <br>
 [12 Siglas](#12-Siglas) <br>
 [13 Referências](#13-Referências) <br>
@@ -201,7 +218,7 @@ Comparativo:
 
 ### 3.2 Trilhas
 
-Jornada de Compras Públicas para Inovação:
+Jornada (trilha) de Compras Públicas para Inovação:
 
 A Trilha do planejamento:
 1. Mapear problemas
