@@ -279,9 +279,8 @@ Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8
 
 Além disso:
 
-V - a definição da titularidade dos direitos de propriedade intelectual das criações resultantes do CPSI; e
-
-V - a participação nos resultados de sua exploração, assegurados às partes os direitos de exploração comercial, de licenciamento e de transferência da tecnologia de que são titulares.
+A definição da titularidade dos direitos de propriedade intelectual das criações resultantes do CPSI;
+A participação nos resultados de sua exploração, assegurados às partes os direitos de exploração comercial, de licenciamento e de transferência da tecnologia de que são titulares.
 
 [Sumário](#sumário)<br>
 
