@@ -263,19 +263,19 @@ Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8
 ### 3.4 Resumo CPSI
 
 CPSI
-◦ Demanda que exija solução inovadora com emprego de tecnologia;
-◦ Adm Pública direta, autárquica e fundacional - União, Estados e Municípios;
-◦ Estatais mediante regulamento (art. 12, §2º);
-◦ Valores podem ser anualmente atualizados (IPCA ou equivalente) – máx. R$ 1.600.000,00;
-◦ Pessoas físicas ou jurídicas isoladamente ou em consórcio;
-◦ Com ou sem risco tecnológico (cronograma físico-financeiro aprovado + rescisão antecipada);
-◦ Metas e metodologia de aferição;
-◦ Formas e periodicidade das entregas (monitoramento) + Relatórios intermediários e final;
-◦ Matriz de riscos contratuais;
+◦ Demanda que exija solução inovadora com emprego de tecnologia;<br>
+◦ Adm Pública direta, autárquica e fundacional - União, Estados e Municípios;<br>
+◦ Estatais mediante regulamento (art. 12, §2º);<br>
+◦ Valores podem ser anualmente atualizados (IPCA ou equivalente) – máx. R$ 1.600.000,00;<br>
+◦ Pessoas físicas ou jurídicas isoladamente ou em consórcio;<br>
+◦ Com ou sem risco tecnológico (cronograma físico-financeiro aprovado + rescisão antecipada);<br>
+◦ Metas e metodologia de aferição;<br>
+◦ Formas e periodicidade das entregas (monitoramento) + Relatórios intermediários e final;<br>
+◦ Matriz de riscos contratuais;<br>
 ◦ Remuneração, titularidade da PI, participação nos direitos de exploração (comercial, licenciamento e
-transferência de tecnologia);
-◦ Pagamento antecipado de parcela (previsto em edital + etapa inicial + justifica expressa).
-Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8/papel_controle_CPSI%20_1_.pdf, página 11.
+transferência de tecnologia);<br>
+◦ Pagamento antecipado de parcela (previsto em edital + etapa inicial + justifica expressa).<br>
+Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8/papel_controle_CPSI%20_1_.pdf, página 11.<br>
 
 Além disso:
 
