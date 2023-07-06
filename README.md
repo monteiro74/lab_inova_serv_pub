@@ -262,7 +262,7 @@ Fonte: https://portal.tcu.gov.br/data/files/76/24/45/8B/134008102DFE0FF7F18818A8
 
 ### 3.4 Resumo CPSI
 
-CPSI
+CPSI:<br>
 ◦ Demanda que exija solução inovadora com emprego de tecnologia;<br>
 ◦ Adm Pública direta, autárquica e fundacional - União, Estados e Municípios;<br>
 ◦ Estatais mediante regulamento (art. 12, §2º);<br>
