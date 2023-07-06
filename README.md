@@ -286,7 +286,7 @@ A participação nos resultados de sua exploração, assegurados às partes os d
 
 
 ---
-## 4 Encomendas técnicas
+## 4 Encomendas técnológica
 
 ### 4.1. Definições de ETEC
 
