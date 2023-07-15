@@ -16,7 +16,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 
 ## Sumário
 
-[1 Definição de inovação](#1-Definição-de-inovação) <br>
+[1 Definição de inovação](#1-definição-de-inovação) <br>
 [1.1 Niveis de maturidade tecnológica](#11-niveis-de-maturidade-tecnológica)<br>
 [2 Laboratório de inovação](#2-laboratório-de-inovação) <br>
 [2.1 Definições](#21-definições)<br>
