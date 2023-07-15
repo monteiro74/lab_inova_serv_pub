@@ -43,7 +43,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [10 Outros materiais](#10-Outros-materiais) <br>
 [10.1 Notícias](#101-notícias)<br>
 [10.2 Normas](#102-normas)<br>
-[11 Laboratórios de inovação](#11-Laboratórios-de-inovação) <br>
+[11 Laboratórios de inovação](#11-laboratórios-de-inovação) <br>
 [12 Siglas](#12-siglas) <br>
 [13 Referências](#13-referências) <br>
 [14 Livros](#14-livros) <br>
