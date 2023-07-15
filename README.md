@@ -28,7 +28,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [3.2 Trilhas](#32-trilhas)<br>
 [3.3 Trilha do CPSI](#33-trilha-do-cpsi)<br>
 [3.4 Resumo CPSI](#34-resumo-cpsi)<br>
-[4 ETEC Encomendas técnicas](#4-Encomendas-técnicas) <br>
+[4 ETEC Encomendas técnicas](#4-encomendas-técnológica) <br>
 [4.1 Definições de ETEC](#41-definições-de-etec)<br>
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [4.3 Editais e contratos, exemplos](#43-editais-e-contratos-exemplos)<br>
