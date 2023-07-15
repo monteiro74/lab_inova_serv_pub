@@ -44,9 +44,9 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [10.1 Notícias](#101-notícias)<br>
 [10.2 Normas](#102-normas)<br>
 [11 Laboratórios de inovação](#11-Laboratórios-de-inovação) <br>
-[12 Siglas](#12-Siglas) <br>
-[13 Referências](#13-Referências) <br>
-[14 Livros](#14-Livros) <br>
+[12 Siglas](#12-siglas) <br>
+[13 Referências](#13-referências) <br>
+[14 Livros](#14-livros) <br>
 
 
 <!---
