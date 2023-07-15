@@ -23,7 +23,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [2.1.1 Definições de laboratórios de inovação em governos](#211-definições-de-laboratórios-de-inovação-em-governos)<br>
 [2.2 Objetivos de laboratórios (públicos)](#22-objetivos-de-laboratórios-públicos)<br>
 [2.3 Base legal](#23-base-legal)<br>
-[3 CPSI Contrato Público de Solução Inovadora](#3-Contratação-de-inovação) <br>
+[3 CPSI Contrato Público de Solução Inovadora](#3-cpsi-contrato-público-de-solução-inovadora) <br>
 [3.1 Definições de CPSI](#31-definições-de-cpsi)<br>
 [3.2 Trilhas](#32-trilhas)<br>
 [3.3 Trilha do CPSI](#33-trilha-do-cpsi)<br>
