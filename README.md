@@ -40,7 +40,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [7.1 Diferenças entre tipos de compras](#71-diferenças-entre-tipos-de-compras)<br>
 [8 Videos](#8-Videos) <br>
 [9 Cursos](#9-Cursos) <br>
-[10 Outros materiais](#10-Outros-materiais) <br>
+[10 Outros materiais](#10-outros-materiais) <br>
 [10.1 Notícias](#101-notícias)<br>
 [10.2 Normas](#102-normas)<br>
 [11 Laboratórios de inovação](#11-laboratórios-de-inovação) <br>
