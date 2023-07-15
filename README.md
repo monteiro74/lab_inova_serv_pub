@@ -18,7 +18,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 
 [1 Definição de inovação](#1-Definição-de-inovação) <br>
 [1.1 Niveis de maturidade tecnológica](#11-niveis-de-maturidade-tecnológica)<br>
-[2 Laboratório de inovação](#2-Laboratório-de-Inovação) <br>
+[2 Laboratório de inovação](#2-laboratório-de-inovação) <br>
 [2.1 Definições](#21-definições)<br>
 [2.1.1 Definições de laboratórios de inovação em governos](#211-definições-de-laboratórios-de-inovação-em-governos)<br>
 [2.2 Objetivos de laboratórios (públicos)](#22-objetivos-de-laboratórios-públicos)<br>
