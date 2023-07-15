@@ -38,8 +38,8 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [6.2 Requisitos para enquadramento como startup](#62-requisitos-para-enquadramento-como-startup)<br>
 [7 Bases legais](#7-bases-legais-diversas) <br>
 [7.1 Diferenças entre tipos de compras](#71-diferenças-entre-tipos-de-compras)<br>
-[8 Videos](#8-Videos) <br>
-[9 Cursos](#9-Cursos) <br>
+[8 Videos](#8-videos) <br>
+[9 Cursos](#9-cursos) <br>
 [10 Outros materiais](#10-outros-materiais) <br>
 [10.1 Notícias](#101-notícias)<br>
 [10.2 Normas](#102-normas)<br>
