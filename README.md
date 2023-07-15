@@ -32,8 +32,8 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [4.1 Definições de ETEC](#41-definições-de-etec)<br>
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [4.3 Editais e contratos, exemplos](#43-editais-e-contratos-exemplos)<br>
-[5 Breve comparativo ETEC x CPSI](#5-Breve-comparativo-ETEC-x-CPSI) <br>
-[6 Lei das startups](#6-Lei-das-startups) <br>
+[5 Breve comparativo ETEC x CPSI](#5-breve-comparativo-etec-x-cpsi) <br>
+[6 Lei das startups](#6-lei-das-startups) <br>
 [6.1 Definições](#61-definições)<br>
 [6.2 Requisitos para enquadramento como startup](#62-requisitos-para-enquadramento-como-startup)<br>
 [7 Bases legais](#7-bases-legais-diversas) <br>
