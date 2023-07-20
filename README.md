@@ -333,9 +333,9 @@ Prefeitura de Recife https://www.emprel.gov.br/sites/default/files/edital_-_1o_c
 
 Prefeitura de Maricá (Sobre comitê científico) https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
 
-Prefeitura de Pato Branco-PR https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+Prefeitura de Pato Branco-PR (minuta de edital de licitação) https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
 
-Fiocruz e Astrazeneca, termo de contrato https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
+Fiocruz e Astrazeneca (termo de contrato) https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
 
 PMMG https://www.compras.mg.gov.br/images/stories/ArquivosLicitacoes/SEPLAG/consultaspublicas/edital-consulta-publica-sei-1250.01.0003777-2022-09.pdf
 
