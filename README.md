@@ -336,6 +336,7 @@ Prefeitura de Maricá (Sobre comitê científico) https://ictim.com.br/wp-conten
 Prefeitura de Pato Branco-PR (minuta de edital de licitação) https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/ <br>
 Pato Branco (ATUALIZADO) : https://patobranco.pr.gov.br/wp-content/uploads/2022/11/PBC_ANEXO_V_MINUTA_DE_CONTRATO_PUBLICO_PARA_SOLUCAO_INOVADORA_CPSI_.pdf<br>
 Outros documentos: https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+Resultado de edital: https://media.diariodosudoeste.com.br/6e0bcea8-edicao-8284-09-de-dezembro-assinado.pdf
 
 Fiocruz e Astrazeneca (termo de contrato) https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
 
