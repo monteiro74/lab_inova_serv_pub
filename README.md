@@ -327,7 +327,7 @@ TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/1
 
 Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
 
-Prefeitura de Niterói http://www.prosustentavel.niteroi.rj.gov.br/wp-content/uploads/2020/10/TR_ETEC_rev07.pdf
+Prefeitura de Niterói (edital de ETEC) http://www.prosustentavel.niteroi.rj.gov.br/wp-content/uploads/2020/10/TR_ETEC_rev07.pdf
 
 Prefeitura de Recife https://www.emprel.gov.br/sites/default/files/edital_-_1o_ciclo_de_inovacao_aberta_prefeitura_do_recife.pdf
 
