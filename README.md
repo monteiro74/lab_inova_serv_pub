@@ -331,7 +331,7 @@ Prefeitura de Niterói (edital de ETEC) http://www.prosustentavel.niteroi.rj.gov
 
 Prefeitura de Recife https://www.emprel.gov.br/sites/default/files/edital_-_1o_ciclo_de_inovacao_aberta_prefeitura_do_recife.pdf
 
-Prefeitura de Maricá https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
+Prefeitura de Maricá (Sobre comitê científico) https://ictim.com.br/wp-content/uploads/2023/03/22.03.2023-RESULTADO-FINAL-DOS-PROFESSORES-ORIENTADORES-DO-PROGRAMA-DE-INICIACAO-CIENTIFICA-2023.pdf
 
 Prefeitura de Pato Branco-PR https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
 
