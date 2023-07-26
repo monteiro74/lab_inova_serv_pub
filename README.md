@@ -792,23 +792,36 @@ laboratorioinovacaogovbr @ gmail . com
 
 
 
-
-Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
-
-Contribuições de:<br>
-<a href="https://github.com/monteiro74/tutorial_python/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=monteiro74/tutorial_python" />
-</a>
-
-
-
-
-
 ```
 Autor: Prof. Dr. Monteiro.
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
+
+
+
+
+Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/lab_inova_serv_pub)
+
+Pulse:<br>
+https://github.com/monteiro74/lab_inova_serv_pub/pulse<BR>
+
+Contribuições de:<br>
+<a href="https://github.com/monteiro74/lab_inova_serv_pub/contributors">
+  <img src="https://contrib.rocks/image?repo=monteiro74/lab_inova_serv_pub" />
+</a>
+
+Histórico de frequência de código:<BR>
+https://github.com/monteiro74/lab_inova_serv_pub/graphs/code-frequency<BR>
+
+Atividade de commits:<BR>
+https://github.com/monteiro74/lab_inova_serv_pub/graphs/commit-activity<BR>
+
+Trafego:<BR>
+https://github.com/monteiro74/lab_inova_serv_pub/graphs/traffic<BR>
+
+[Voltar ao sumário](#sumário)<br>
+
 
