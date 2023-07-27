@@ -799,7 +799,14 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
 
+---
+# Estatísticas
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
 
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
