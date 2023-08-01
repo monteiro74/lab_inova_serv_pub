@@ -338,6 +338,10 @@ Pato Branco (ATUALIZADO) : https://patobranco.pr.gov.br/wp-content/uploads/2022/
 Outros documentos: https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
 Resultado de edital: https://media.diariodosudoeste.com.br/6e0bcea8-edicao-8284-09-de-dezembro-assinado.pdf
 
+PB https://patobranco.pr.gov.br/licitacao/aviso-de-edital-de-licitacao-na-modalidade-especial-regida-pela-lei-complementar-federal-no-182-2021-cpsi-no-01-2022-processo-n-o-01-2022/
+
+Sistema de remuneração e compartilhamento de resultados https://patobranco.pr.gov.br/wp-content/uploads/2022/11/PBC_ANEXO_VIII_SISTEMA_DE_REMUNERACAO_E_COMPARTILHAMENTO_DE_RESULTADOS.pdf
+
 Fiocruz e Astrazeneca (termo de contrato) https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/contrato_vacina_astrazaneca_fiocruz.pdf
 
 PMMG https://www.compras.mg.gov.br/images/stories/ArquivosLicitacoes/SEPLAG/consultaspublicas/edital-consulta-publica-sei-1250.01.0003777-2022-09.pdf
@@ -369,6 +373,8 @@ FINEP http://www.finep.gov.br/chamadas-publicas/chamadapublica/714
 Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 MP RJ https://www.mprj.mp.br/inova/cpsi
+
+
 
 [Sumário](#sumário)<br>
 
