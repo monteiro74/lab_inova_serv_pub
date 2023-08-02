@@ -374,6 +374,7 @@ Editais diversos https://capta.org.br/fontes-de-financiamento/oportunidades/
 
 MP RJ https://www.mprj.mp.br/inova/cpsi
 
+Exemplos de acordo de cooperação técnica do ENAP https://repositorio.enap.gov.br/handle/1/1217
 
 
 [Sumário](#sumário)<br>
