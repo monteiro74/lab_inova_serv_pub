@@ -376,6 +376,7 @@ MP RJ https://www.mprj.mp.br/inova/cpsi
 
 Exemplos de acordo de cooperação técnica do ENAP https://repositorio.enap.gov.br/handle/1/1217
 
+TR cooperação internacional em IA https://repositorio.enap.gov.br/handle/1/7491
 
 [Sumário](#sumário)<br>
 
