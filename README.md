@@ -32,6 +32,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [4.1 Definições de ETEC](#41-definições-de-etec)<br>
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [5 Editais, exemplos](#5-editais-exemplos)<br>
+[5.1. Editais para pessoas físicas](#51-editais-que-permitem-participação-de-pessoas-físicas)<br>
 [6 Breve comparativo ETEC x CPSI](#6-breve-comparativo-etec-x-cpsi) <br>
 [7 Lei das startups](#7-lei-das-startups) <br>
 [7.1 Definições](#71-definições)<br>
@@ -319,7 +320,7 @@ Definição 3: Mendonça et al 2022 (apud Rauen e Barbosa 2019, p. 15) a ETEC é
 
 
 
-# 5 Editais, exemplos
+## 5 Editais, exemplos
 
 CPIN Modelo de Edital de Consulta Pública ao Mercado https://inovacpin.org/publico/biblioteca/57
 
@@ -381,6 +382,28 @@ TR cooperação internacional em IA https://repositorio.enap.gov.br/handle/1/749
 [Sumário](#sumário)<br>
 
 
+
+
+### 5.1. Editais que permitem participação de pessoas físicas
+
+[SEFAZ BA](https://sefaz.salvador.ba.gov.br/desafio#gsc.tab=0)
+
+[CEMIG desafio inovação](https://www.cemig.com.br/wp-content/uploads/2021/07/chamamento-desafio-cemig-Inovacao.pdf)
+
+[Gov Bahia desafio de inovação Baixa dos Sapateiros](https://salvadorlab.salvador.ba.gov.br/wp-content/uploads/2023/05/Edital-Desafio-I-Inovacao-Aberta-Baixa-dos-Sapateiros-1.pdf)
+
+[Recife, ciclo 2](https://sites.google.com/recife.pe.gov.br/eita-2-ciclo/regulamento)
+
+CEDAE
+https://cedae.com.br/Edital
+e
+https://storage.googleapis.com/site-cedae/Manancial/edital/1/EDITAL_DESAFIO_MANANCIAL_CEDAE_V.2.pdf
+
+[Prefeitura de Encandado, RS](https://encantado.rs.gov.br/site/arquivo/download/table/edital/id/42045/prefix/original)
+
+[Prefeitura de Erechim, RS](https://www.pmerechim.rs.gov.br/edital/46)
+
+[Sumário](#sumário)<br>
 
 
 
