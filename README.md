@@ -650,6 +650,9 @@ https://www.escolavirtual.gov.br/curso/367/
 Primeiros passos para uso de Linguagem Simples
 https://www.escolavirtual.gov.br/curso/315
 
+Marco Legal das Startups - Contratando Inovação no Setor Público
+https://www.escolavirtual.gov.br/curso/951
+
 [Sumário](#sumário)<br>
 
 
@@ -731,6 +734,10 @@ https://www.iso.org/standard/68221.html
 | Laboratório de Inovação e Coparticipação –coLAB-i | DF | TCU | |
 | Laboratório Hacker de Inovação (Labhinova) | DF | Câmara Legislativa do DF | |
 | Laboratório de inovação em compras públicas - LAB-COMP | DF | Câmara dos Deputados | |
+| Laboratório de Inovação - LabInova* | MT | Sefaz-MT | |
+
+* * LabInova, laboratório de inovação da SEFAZ-MT, publicado no diário oficial Nº 28.559, página 29, de 9 de agosto de 2023.
+https://iomat.mt.gov.br/portal/visualizacoes/pdf/17427#/p:29/e:17427?find=LabInova
 
 [Sumário](#sumário)<br>
 
