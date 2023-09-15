@@ -818,7 +818,7 @@ https://publications.iadb.org/pt/revisitando-compras-publicas-de-inovacao-no-bra
 Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: maio/2023. 
-Última atualização em: 30/agosto/2023.
+Última atualização em: 15/setembro/2023.
 ```
 
 
