@@ -328,6 +328,8 @@ TCU: https://portal.tcu.gov.br/data/files/68/36/8E/7F/6296E71054CD4BD7E18818A8/1
 
 Petrobras https://tecnologia.petrobras.com.br/modulo-encomendas-tecnologicas
 
+Petrobras https://static.portaldaindustria.com.br/media/filer_public/7e/7f/7e7f5168-4ffb-46ef-ab95-36a63dad49e2/desafio_de_startups_petrobras_distribuidora_edital_de_inovacao_2018.pdf
+
 Prefeitura de Niterói (edital de ETEC) http://www.prosustentavel.niteroi.rj.gov.br/wp-content/uploads/2020/10/TR_ETEC_rev07.pdf
 
 Prefeitura de Recife https://www.emprel.gov.br/sites/default/files/edital_-_1o_ciclo_de_inovacao_aberta_prefeitura_do_recife.pdf
@@ -378,6 +380,10 @@ MP RJ https://www.mprj.mp.br/inova/cpsi
 Exemplos de acordo de cooperação técnica do ENAP https://repositorio.enap.gov.br/handle/1/1217
 
 TR cooperação internacional em IA https://repositorio.enap.gov.br/handle/1/7491
+
+SEFAZ-BA https://sefaz.salvador.ba.gov.br/desafio#gsc.tab=0
+
+FURNAS (modelo de edital e modelo de proposta) https://www.furnas.com.br/subsecao/598/desafio-furnas-conecta-startups?culture=pt
 
 [Sumário](#sumário)<br>
 
