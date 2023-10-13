@@ -33,6 +33,7 @@ O objetivo desta página é centralizar informações que auxiliem no processo d
 [4.2 Exemplo, + materiais](#42-exemplo--materiais)<br>
 [5 Editais, exemplos](#5-editais-exemplos)<br>
 [5.1. Editais para pessoas físicas](#51-editais-que-permitem-participação-de-pessoas-físicas)<br>
+[5.2. Kits](#52-kits)<br>
 [6 Breve comparativo ETEC x CPSI](#6-breve-comparativo-etec-x-cpsi) <br>
 [7 Lei das startups](#7-lei-das-startups) <br>
 [7.1 Definições](#71-definições)<br>
@@ -412,6 +413,12 @@ https://storage.googleapis.com/site-cedae/Manancial/edital/1/EDITAL_DESAFIO_MANA
 [Voltar ao Sumário](#sumário)<br>
 
 
+## 5.2. Kits
+
+
+[Toolkit do Marco Legal de CT&I](https://www.toolkitcti.org/)
+
+[Plataforma de compras públicas para inovação](https://inovacpin.org/)
 
 
 
